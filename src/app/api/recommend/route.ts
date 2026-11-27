@@ -59,7 +59,8 @@ export async function POST(req: Request) {
 
   // Anonymised logging. A logging failure must never break the user's results.
   let requestId: string | null = null;
-  try {
+  // No database configured (e.g. a free demo deployment): skip logging.
+  if (process.env.DATABASE_URL) try {
     const all = [...result.items, ...(result.wildcard ? [result.wildcard] : [])];
     const row = await prisma.recommendationRequest.create({
       data: {
