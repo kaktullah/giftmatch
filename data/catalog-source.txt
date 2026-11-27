@@ -1,0 +1,213 @@
+# Real products sold by Dutch web shops. Format:
+# title | brand | category | tags | approx price EUR | store | clothing (y/n)
+# Prices are approximate (checked by hand, will drift). Links are generated as
+# store search URLs for the exact product name, so they always open the real shop.
+AeroPress Original Coffee Maker | AeroPress | coffee-tea | coffee,black coffee,travel,manual brewing | 40 | bol.com | n
+Hario V60 Ceramic Dripper Size 02 | Hario | coffee-tea | coffee,black coffee,pour over,manual brewing | 25 | Amazon.nl | n
+Bialetti Moka Express 6 Cups | Bialetti | coffee-tea | coffee,espresso,italian,classic | 35 | bol.com | n
+Timemore Chestnut C2 Manual Coffee Grinder | Timemore | coffee-tea | coffee,grinder,manual brewing,coffee nerd | 70 | Amazon.nl | n
+Fellow Stagg EKG Electric Pour-Over Kettle | Fellow | coffee-tea | coffee,kettle,pour over,design | 179 | Amazon.nl | n
+Bodum Chambord French Press 1 L | Bodum | coffee-tea | coffee,french press,classic | 35 | bol.com | n
+De'Longhi Dedica Style EC685 Espresso Machine | De'Longhi | coffee-tea | coffee,espresso,machine,latte | 199 | Coolblue | n
+Nespresso Vertuo Pop | Nespresso | coffee-tea | coffee,capsules,easy,student | 89 | Coolblue | n
+Philips LatteGo 2200 Series EP2231/40 | Philips | coffee-tea | coffee,espresso,bean to cup,latte | 399 | Coolblue | n
+KeepCup Brew Cork Reusable Cup 340 ml | KeepCup | coffee-tea | coffee,eco,commute,sustainable | 30 | bol.com | n
+Hario Cold Brew Coffee Bottle 650 ml | Hario | coffee-tea | coffee,cold brew,summer | 25 | Amazon.nl | n
+Matcha Tea Set with Bamboo Whisk and Bowl | Various | coffee-tea | tea,matcha,japanese,ritual | 35 | bol.com | n
+Bredemeijer Teapot Minuet Santhee 1.2 L | Bredemeijer | coffee-tea | tea,teapot,classic,dutch | 45 | bol.com | n
+Dilmah Tea Gift Box Exceptional Selection | Dilmah | coffee-tea | tea,gift box,variety | 25 | Amazon.nl | n
+Le Creuset Signature Cast Iron Casserole 24 cm | Le Creuset | kitchen | cooking,cast iron,stew,premium | 299 | bol.com | n
+Lodge Cast Iron Skillet 26 cm | Lodge | kitchen | cooking,cast iron,steak,outdoor cooking | 45 | Amazon.nl | n
+Victorinox Swiss Classic Chef's Knife 19 cm | Victorinox | kitchen | cooking,knife,chef,practical | 45 | bol.com | n
+Global G-2 Chef's Knife 20 cm | Global | kitchen | cooking,knife,japanese,chef,premium | 110 | bol.com | n
+Tefal Ingenio Emotion 13-piece Pan Set | Tefal | kitchen | cooking,pans,space saving,practical | 149 | Coolblue | n
+Philips Airfryer XXL HD9650/90 | Philips | kitchen | cooking,airfryer,healthy,practical | 249 | Coolblue | n
+Ninja Foodi Dual Zone Airfryer AF300EU | Ninja | kitchen | cooking,airfryer,family,practical | 179 | Coolblue | n
+KitchenAid Artisan Stand Mixer 5KSM175 | KitchenAid | kitchen | baking,mixer,premium,design | 549 | Coolblue | n
+Ottolenghi Simple Cookbook | Ebury Press | books | cooking,cookbook,vegetarian,middle eastern | 30 | bol.com | n
+Salt Fat Acid Heat by Samin Nosrat | Canongate | books | cooking,cookbook,learning,technique | 30 | bol.com | n
+Joseph Joseph Nest 9 Plus Bowl Set | Joseph Joseph | kitchen | cooking,baking,space saving,colorful | 40 | bol.com | n
+Microplane Premium Classic Zester | Microplane | kitchen | cooking,baking,tool,small | 20 | Amazon.nl | n
+ThermoPro TP19H Digital Meat Thermometer | ThermoPro | kitchen | cooking,bbq,steak,gadget | 25 | Amazon.nl | n
+Weber Original Kettle E-5730 BBQ 57 cm | Weber | garden-plants | bbq,grilling,outdoor cooking,summer | 199 | Coolblue | n
+Weber Go-Anywhere Charcoal BBQ | Weber | outdoor-travel | bbq,grilling,camping,portable | 89 | bol.com | n
+Ooni Koda 12 Gas Pizza Oven | Ooni | garden-plants | pizza,outdoor cooking,italian,party | 399 | Coolblue | n
+Emile Henry Pizza Stone 36 cm | Emile Henry | kitchen | pizza,baking,italian | 60 | bol.com | n
+Lékué Bread Maker Kit | Lékué | kitchen | baking,bread,sourdough | 30 | bol.com | n
+Brabantia Bo Touch Bin 2x30 L | Brabantia | home-decor | practical,home,recycling,design | 279 | Coolblue | n
+Sodastream Terra Sparkling Water Maker | SodaStream | drinks-bar | sparkling water,eco,practical,healthy | 89 | Coolblue | n
+Vacu Vin Wine Saver Gift Set | Vacu Vin | drinks-bar | wine,practical,small | 20 | bol.com | n
+Riedel Veritas Cabernet Wine Glasses (set of 2) | Riedel | drinks-bar | wine,glasses,premium | 60 | bol.com | n
+Coravin Pivot Wine Preservation System | Coravin | drinks-bar | wine,gadget,premium,wine lover | 99 | bol.com | n
+Cocktail Shaker Set 10-piece Stainless Steel | Mixology & Craft | drinks-bar | cocktails,party,mixology | 40 | Amazon.nl | n
+Whisky Stones Gift Set with Glasses | Amerigo | drinks-bar | whisky,glasses,gift box,classic | 30 | Amazon.nl | n
+Glencairn Whisky Glass (set of 2) | Glencairn | drinks-bar | whisky,glasses,tasting | 25 | bol.com | n
+Brewferm Beer Brewing Kit Starter | Brewferm | drinks-bar | beer,brewing,diy,hobby | 50 | bol.com | n
+Leuchtturm1917 Whisky Tasting Journal | Leuchtturm1917 | drinks-bar | whisky,journal,tasting | 20 | Amazon.nl | n
+Wilson Pro Staff Padel Racket | Wilson | sports-fitness | padel,racket,sport | 90 | Amazon.nl | n
+Bullpadel Vertex 03 Padel Racket | Bullpadel | sports-fitness | padel,racket,sport,premium | 220 | bol.com | n
+Head Padel Pro Balls (3-pack) | Head | sports-fitness | padel,balls,small | 8 | bol.com | n
+Babolat Padel Bag Classic | Babolat | sports-fitness | padel,bag,sport | 60 | Amazon.nl | n
+Garmin Forerunner 165 GPS Running Watch | Garmin | sports-fitness | running,watch,gps,fitness | 249 | Coolblue | n
+Polar Pacer Running Watch | Polar | sports-fitness | running,watch,fitness | 199 | Coolblue | n
+Fitbit Charge 6 | Fitbit | sports-fitness | fitness,tracker,health,sleep | 149 | Coolblue | n
+Theragun Mini 2nd Gen Massage Gun | Therabody | sports-fitness | recovery,massage,fitness,gym | 199 | Coolblue | n
+Blackroll Standard Foam Roller | Blackroll | sports-fitness | recovery,foam roller,yoga,running | 35 | bol.com | n
+Manduka PRO Yoga Mat 6 mm | Manduka | sports-fitness | yoga,mat,premium | 120 | Amazon.nl | n
+Kettlebell Cast Iron 12 kg | Tunturi | sports-fitness | gym,home workout,strength | 40 | bol.com | n
+TRX All-in-One Suspension Trainer | TRX | sports-fitness | home workout,strength,travel | 150 | Amazon.nl | n
+Speedo Fastskin Speedsocket 2 Goggles | Speedo | sports-fitness | swimming,goggles | 40 | bol.com | n
+Hydro Flask 32 oz Wide Mouth Bottle | Hydro Flask | outdoor-travel | hiking,bottle,eco,gym | 45 | bol.com | n
+Stanley Quencher H2.0 FlowState Tumbler 1.2 L | Stanley | outdoor-travel | bottle,trendy,gym,office | 45 | bol.com | n
+Black Diamond Spot 400 Headlamp | Black Diamond | outdoor-travel | hiking,camping,headlamp,running | 45 | Amazon.nl | n
+Osprey Daylite Plus Backpack 20 L | Osprey | outdoor-travel | hiking,backpack,commute,travel | 70 | bol.com | n
+Victorinox Swiss Army Knife Huntsman | Victorinox | outdoor-travel | camping,hiking,tool,classic | 55 | bol.com | n
+Leatherman Wave+ Multitool | Leatherman | outdoor-travel | tool,diy,camping,practical | 150 | bol.com | n
+Helinox Chair One Camping Chair | Helinox | outdoor-travel | camping,festival,lightweight | 110 | Amazon.nl | n
+Sea to Summit Aeros Premium Pillow | Sea to Summit | outdoor-travel | camping,travel,sleep | 45 | Amazon.nl | n
+Garmin Edge 540 Bike Computer | Garmin | sports-fitness | cycling,gps,bike,road cycling | 349 | Coolblue | n
+Abus Bordo 6000 Folding Bike Lock | Abus | sports-fitness | cycling,bike,lock,commute,practical | 80 | bol.com | n
+Lezyne Micro Drive 600XL Front Light | Lezyne | sports-fitness | cycling,bike,light,commute | 50 | Amazon.nl | n
+Samsonite Proxis Spinner 55 cm Cabin Case | Samsonite | outdoor-travel | travel,luggage,premium | 299 | bol.com | n
+Bellroy Travel Wallet | Bellroy | accessories | travel,wallet,passport,design | 110 | Amazon.nl | n
+Apple AirTag 4-pack | Apple | tech-gadgets | travel,tracker,apple,practical | 119 | Coolblue | n
+Scratch Map Travel Edition World Poster | Luckies of London | outdoor-travel | travel,map,decor,wanderlust | 25 | bol.com | n
+Lonely Planet's Ultimate Travel List | Lonely Planet | books | travel,book,bucket list | 30 | bol.com | n
+Kindle Paperwhite (16 GB) | Amazon | tech-gadgets | reading,ebook,books,travel | 170 | Amazon.nl | n
+Kobo Clara BW e-reader | Kobo | tech-gadgets | reading,ebook,books | 140 | bol.com | n
+Apple AirPods Pro 2 | Apple | audio-music | headphones,apple,noise cancelling,commute | 249 | Coolblue | n
+Sony WH-1000XM5 Headphones | Sony | audio-music | headphones,noise cancelling,travel,music | 349 | Coolblue | n
+JBL Flip 6 Bluetooth Speaker | JBL | audio-music | speaker,music,party,outdoor | 119 | Coolblue | n
+Marshall Emberton II Speaker | Marshall | audio-music | speaker,music,rock,design | 149 | Coolblue | n
+Sonos Era 100 | Sonos | audio-music | speaker,music,home,premium | 279 | Coolblue | n
+Audio-Technica AT-LP60X Turntable | Audio-Technica | audio-music | vinyl,records,music,retro | 149 | Coolblue | n
+Crosley Cruiser Plus Portable Turntable | Crosley | audio-music | vinyl,records,retro,trendy | 99 | bol.com | n
+Yamaha F310 Acoustic Guitar | Yamaha | audio-music | guitar,music,learning,instrument | 169 | Amazon.nl | n
+Yamaha PSS-A50 Mini Keyboard | Yamaha | audio-music | piano,music,instrument,beginner | 129 | bol.com | n
+Kala Soprano Ukulele KA-15S | Kala | audio-music | ukulele,music,instrument,beginner | 70 | Amazon.nl | n
+Shure MV7+ Podcast Microphone | Shure | audio-music | podcast,microphone,streaming,creator | 279 | Coolblue | n
+Spotify Premium Gift Card 3 months | Spotify | audio-music | music,streaming,gift card | 33 | bol.com | n
+Anker PowerCore 10000 Power Bank | Anker | tech-gadgets | practical,phone,travel,charger | 25 | Amazon.nl | n
+Anker 3-in-1 MagSafe Charging Station | Anker | tech-gadgets | charger,apple,iphone,desk | 110 | Amazon.nl | n
+Logitech MX Master 3S Mouse | Logitech | tech-gadgets | office,desk,productivity,mouse | 99 | Coolblue | n
+Logitech MX Keys S Keyboard | Logitech | tech-gadgets | office,desk,productivity,keyboard | 119 | Coolblue | n
+Keychron K2 Mechanical Keyboard | Keychron | tech-gadgets | keyboard,programming,mechanical,desk | 99 | Amazon.nl | n
+BenQ ScreenBar LED Monitor Light | BenQ | tech-gadgets | desk,office,lamp,work from home | 109 | Amazon.nl | n
+Philips Hue White and Color Starter Kit E27 | Philips Hue | tech-gadgets | smart home,lights,gadget | 159 | Coolblue | n
+Google Nest Mini | Google | tech-gadgets | smart home,speaker,assistant | 49 | Coolblue | n
+Fujifilm Instax Mini 12 | Fujifilm | tech-gadgets | photography,instant camera,trendy,memories | 89 | Coolblue | n
+Fujifilm Instax Mini Film 2x10 | Fujifilm | tech-gadgets | photography,instant camera,film | 20 | bol.com | n
+Polaroid Now+ Gen 2 Camera | Polaroid | tech-gadgets | photography,instant camera,retro | 149 | bol.com | n
+DJI Osmo Mobile 6 Smartphone Gimbal | DJI | tech-gadgets | video,creator,phone,travel | 149 | Coolblue | n
+DJI Mini 4K Drone | DJI | tech-gadgets | drone,video,gadget,travel | 299 | Coolblue | n
+GoPro HERO12 Black | GoPro | tech-gadgets | action camera,video,sport,travel | 399 | Coolblue | n
+Tile Mate Bluetooth Tracker | Tile | tech-gadgets | tracker,keys,practical | 25 | bol.com | n
+Raspberry Pi 5 Starter Kit | Raspberry Pi | tech-gadgets | programming,diy,electronics,learning | 120 | Amazon.nl | n
+Nintendo Switch OLED | Nintendo | gaming | gaming,console,family,portable | 329 | Coolblue | n
+Mario Kart 8 Deluxe (Switch) | Nintendo | gaming | gaming,family,party,racing | 50 | bol.com | n
+The Legend of Zelda: Tears of the Kingdom (Switch) | Nintendo | gaming | gaming,adventure,zelda | 55 | bol.com | n
+Xbox Wireless Controller | Microsoft | gaming | gaming,controller,pc gaming | 60 | Coolblue | n
+PlayStation DualSense Controller | Sony | gaming | gaming,controller,playstation | 70 | Coolblue | n
+PlayStation Store Gift Card 50 EUR | Sony | gaming | gaming,playstation,gift card | 50 | bol.com | n
+Steam Gift Card 50 EUR | Valve | gaming | gaming,pc gaming,gift card | 50 | bol.com | n
+SteelSeries Arctis Nova 1 Gaming Headset | SteelSeries | gaming | gaming,headset,pc gaming | 60 | Coolblue | n
+Meta Quest 3S 128 GB | Meta | gaming | vr,gaming,gadget,fitness | 329 | Coolblue | n
+Catan Board Game (Dutch edition) | 999 Games | games-puzzles | board games,strategy,family,classic | 40 | bol.com | n
+Ticket to Ride Europe | Days of Wonder | games-puzzles | board games,family,travel,strategy | 45 | bol.com | n
+Wingspan Board Game | Stonemaier Games | games-puzzles | board games,birds,nature,strategy | 55 | bol.com | n
+Codenames | Czech Games Edition | games-puzzles | party games,friends,word games | 20 | bol.com | n
+Exploding Kittens | Exploding Kittens | games-puzzles | card games,party games,funny | 20 | bol.com | n
+Azul Board Game | Plan B Games | games-puzzles | board games,family,design,strategy | 35 | bol.com | n
+Unlock! Escape Adventures | Space Cowboys | games-puzzles | escape room,puzzle,party games | 30 | bol.com | n
+Ravensburger 1000 Piece Jigsaw Puzzle Krypt Silver | Ravensburger | games-puzzles | puzzle,jigsaw,challenge | 20 | bol.com | n
+Rubik's Cube 3x3 | Rubik's | games-puzzles | puzzle,classic,retro,small | 12 | bol.com | n
+LEGO Icons Bonsai Tree 10281 | LEGO | creative-hobby | lego,plants,adult hobby,decor | 50 | bol.com | n
+LEGO Icons Orchid 10311 | LEGO | creative-hobby | lego,plants,flowers,decor | 50 | bol.com | n
+LEGO Technic Ford Mustang Shelby GT500 42138 | LEGO | creative-hobby | lego,cars,technic | 50 | bol.com | n
+LEGO Architecture Paris 21044 | LEGO | creative-hobby | lego,travel,architecture,paris | 50 | bol.com | n
+LEGO Star Wars Millennium Falcon 75257 | LEGO | creative-hobby | lego,star wars,fan | 170 | bol.com | n
+Atomic Habits by James Clear | Random House | books | self improvement,productivity,habits | 20 | bol.com | n
+Sapiens by Yuval Noah Harari | Vintage | books | history,science,big ideas | 15 | bol.com | n
+The Body Keeps the Score by Bessel van der Kolk | Penguin | books | psychology,wellbeing,health | 18 | bol.com | n
+Project Hail Mary by Andy Weir | Del Rey | books | science fiction,space,novel | 15 | bol.com | n
+The Hobbit (Illustrated Edition) | HarperCollins | books | fantasy,tolkien,classic,illustrated | 30 | bol.com | n
+The Midnight Library by Matt Haig | Canongate | books | novel,fiction,feel good | 13 | bol.com | n
+Het Achterhuis by Anne Frank | Prometheus | books | history,classic,dutch | 15 | bol.com | n
+Moleskine Classic Notebook Large Hardcover | Moleskine | accessories | notebook,writing,journal,office | 23 | bol.com | n
+Leuchtturm1917 Bullet Journal A5 Dotted | Leuchtturm1917 | creative-hobby | journal,writing,planning,bullet journal | 25 | bol.com | n
+LAMY safari Fountain Pen | LAMY | accessories | writing,pen,classic,student | 25 | bol.com | n
+Q&A a Day: 5-Year Journal | Potter Style | books | journal,memories,sentimental,reflection | 20 | bol.com | n
+Winsor & Newton Cotman Watercolour Sketchers Pocket Box | Winsor & Newton | creative-hobby | painting,watercolor,art,beginner | 25 | Amazon.nl | n
+Posca Paint Markers Set of 16 | Posca | creative-hobby | drawing,art,markers,creative | 40 | bol.com | n
+Cricut Joy Cutting Machine | Cricut | creative-hobby | crafts,diy,cutting machine,creative | 179 | bol.com | n
+Singer Starlet 6680 Sewing Machine | Singer | creative-hobby | sewing,crafts,diy | 199 | bol.com | n
+Bosch EasyDrill 12 Cordless Drill | Bosch | creative-hobby | diy,tools,home improvement,practical | 79 | Coolblue | n
+Bosch IXO 7 Cordless Screwdriver | Bosch | creative-hobby | diy,tools,practical,small | 55 | Coolblue | n
+Dremel 3000 Multitool Kit | Dremel | creative-hobby | diy,tools,woodworking,crafts | 89 | bol.com | n
+Ember Mug 2 Temperature Control 295 ml | Ember | coffee-tea | coffee,tea,gadget,desk,premium | 129 | Amazon.nl | n
+Kähler Hammershøi Vase 20 cm | Kähler | home-decor | vase,danish,design,minimalist | 45 | bol.com | n
+Yankee Candle Large Jar Clean Cotton | Yankee Candle | home-decor | candle,cozy,scent | 30 | bol.com | n
+Rituals The Ritual of Sakura Home Gift Set | Rituals | wellness-selfcare | self care,scent,gift box,relax | 40 | bol.com | n
+Muji Aroma Diffuser Large | Muji | wellness-selfcare | aromatherapy,relax,home,minimalist | 70 | Amazon.nl | n
+Lumie Bodyclock Shine 300 Wake-up Light | Lumie | wellness-selfcare | sleep,morning,light,wellbeing | 170 | Amazon.nl | n
+Philips Wake-up Light HF3520/01 | Philips | wellness-selfcare | sleep,morning,light | 129 | Coolblue | n
+Gravity Weighted Blanket 7 kg | Gravity | wellness-selfcare | sleep,anxiety,relax,cozy | 150 | Amazon.nl | n
+Manta Sleep Mask | Manta | wellness-selfcare | sleep,travel,small | 35 | Amazon.nl | n
+Rituals The Ritual of Jing Gift Set | Rituals | wellness-selfcare | self care,relax,bath,gift box | 30 | bol.com | n
+The Five Minute Journal | Intelligent Change | wellness-selfcare | journal,gratitude,mindfulness,morning | 30 | Amazon.nl | n
+Therabody SmartGoggles | Therabody | wellness-selfcare | relax,headache,massage,gadget | 199 | Amazon.nl | n
+Braun Series 9 Pro+ Shaver | Braun | grooming-beauty | shaving,grooming,men,premium | 299 | Coolblue | n
+Philips OneBlade Pro 360 | Philips | grooming-beauty | shaving,beard,grooming,practical | 69 | Coolblue | n
+Dyson Supersonic Hair Dryer | Dyson | grooming-beauty | hair,premium,beauty,gadget | 449 | Coolblue | n
+Dyson Airwrap Multi-styler Complete Long | Dyson | grooming-beauty | hair,styling,premium,beauty | 549 | Coolblue | n
+Oral-B iO Series 7 Electric Toothbrush | Oral-B | grooming-beauty | dental,health,practical,gadget | 149 | Coolblue | n
+Foreo Luna 4 Facial Cleansing Device | Foreo | grooming-beauty | skincare,beauty,gadget | 199 | bol.com | n
+The Ordinary The Daily Set | The Ordinary | grooming-beauty | skincare,beauty,routine | 30 | bol.com | n
+Baxter of California Grooming Gift Set | Baxter of California | grooming-beauty | grooming,beard,men,gift box | 50 | Amazon.nl | n
+Kiehl's Ultra Facial Cream 50 ml | Kiehl's | grooming-beauty | skincare,moisturizer,classic | 35 | bol.com | n
+Bellroy Hide & Seek Wallet | Bellroy | accessories | wallet,leather,slim,design | 89 | Amazon.nl | n
+Secrid Miniwallet Original | Secrid | accessories | wallet,dutch,slim,practical | 70 | bol.com | n
+Fossil Grant Chronograph Watch | Fossil | accessories | watch,classic,leather | 149 | bol.com | n
+Casio Vintage A168WEGG-1AEF Watch | Casio | accessories | watch,retro,trendy,gold | 60 | bol.com | n
+Ray-Ban Wayfarer Classic Sunglasses | Ray-Ban | accessories | sunglasses,classic,summer | 150 | bol.com | n
+Rains Backpack Mini Waterproof | Rains | accessories | backpack,rain,commute,danish design | 75 | bol.com | n
+Fjällräven Kånken Backpack | Fjällräven | accessories | backpack,classic,student,commute | 95 | bol.com | n
+Herschel Little America Backpack | Herschel | accessories | backpack,travel,laptop | 110 | Amazon.nl | n
+Barts Fleece Beanie | Barts | accessories | winter,beanie,cozy | 25 | bol.com | y
+Patagonia Better Sweater Fleece Jacket | Patagonia | accessories | outdoor,fleece,sustainable,cozy | 150 | Amazon.nl | y
+Happy Socks Gift Box 4-pack | Happy Socks | accessories | socks,colorful,fun | 50 | bol.com | y
+Tommy Hilfiger Cashmere-blend Scarf | Tommy Hilfiger | accessories | winter,scarf,classic | 70 | bol.com | y
+Snow Peak Titanium Single Wall Mug 450 | Snow Peak | outdoor-travel | camping,coffee,lightweight,premium | 40 | Amazon.nl | n
+Click & Grow Smart Garden 3 | Click & Grow | garden-plants | plants,herbs,indoor garden,gadget | 99 | bol.com | n
+AeroGarden Harvest Indoor Garden | AeroGarden | garden-plants | plants,herbs,indoor garden,cooking | 120 | Amazon.nl | n
+Gardena Comfort Pruning Shears | Gardena | garden-plants | gardening,tools,practical | 30 | bol.com | n
+Esschert Design Bird House | Esschert Design | garden-plants | birds,garden,nature,dutch | 25 | bol.com | n
+Esschert Design Bee Hotel | Esschert Design | garden-plants | bees,garden,nature,eco | 20 | bol.com | n
+Bongo Wellness Experience Box | Bongo | experiences | spa,wellness,experience,relax | 70 | bol.com | n
+Bongo Dinner for Two Experience Box | Bongo | experiences | dinner,restaurant,couple,experience | 70 | bol.com | n
+Bongo Weekend Away Experience Box | Bongo | experiences | weekend away,travel,couple,experience | 200 | bol.com | n
+VVV Cadeaukaart 50 EUR | VVV | experiences | gift card,flexible,dutch | 50 | bol.com | n
+Bol.com Cadeaukaart 25 EUR | bol.com | experiences | gift card,flexible | 25 | bol.com | n
+LEGO DUPLO My First Number Train 10954 | LEGO | kids-toys | kids,toddler,learning,lego | 30 | bol.com | n
+Playmobil City Life Zoo 70341 | Playmobil | kids-toys | kids,animals,role play | 80 | bol.com | n
+Hape Wooden Kitchen Playset | Hape | kids-toys | kids,role play,cooking,wooden | 90 | bol.com | n
+Tonies Toniebox Starter Set | Tonies | kids-toys | kids,audio,stories,music | 90 | bol.com | n
+Micro Mini Deluxe Scooter | Micro | kids-toys | kids,scooter,outdoor | 100 | bol.com | n
+VTech KidiZoom Smartwatch MAX | VTech | kids-toys | kids,watch,camera,gadget | 70 | bol.com | n
+Magna-Tiles Clear Colors 32-piece | Magna-Tiles | kids-toys | kids,building,magnetic,stem | 50 | Amazon.nl | n
+Ravensburger GraviTrax Starter Set | Ravensburger | kids-toys | kids,stem,marble run,building | 60 | bol.com | n
+Jellycat Bashful Bunny Medium | Jellycat | kids-toys | plush,baby,cuddly,sentimental | 30 | bol.com | n
+SmartGames IQ Puzzler Pro | SmartGames | games-puzzles | puzzle,logic,travel,kids | 20 | bol.com | n
+Snoopy Hug Mug Peanuts | Peanuts | home-decor | mug,funny,small | 12 | bol.com | n
+Moon Lamp 3D Printed 15 cm | Mydethun | home-decor | lamp,space,night light,trendy | 30 | Amazon.nl | n
+Philips Hue Go Portable Light | Philips Hue | home-decor | lamp,smart home,cozy,portable | 89 | Coolblue | n
+Fatboy Original Bean Bag | Fatboy | home-decor | bean bag,dutch design,lounge,cozy | 199 | bol.com | n
+Kikkerland Scratch-off World Map | Kikkerland | home-decor | travel,map,decor | 20 | bol.com | n
+Digital Photo Frame Aura Carver | Aura | home-decor | photos,family,memories,sentimental | 179 | Amazon.nl | n
+Nixplay 10.1 inch WiFi Digital Photo Frame | Nixplay | home-decor | photos,family,grandparents,sentimental | 140 | bol.com | n
+Dyson V12 Detect Slim Vacuum | Dyson | home-decor | cleaning,practical,premium,gadget | 549 | Coolblue | n
+iRobot Roomba Combo i5 Robot Vacuum | iRobot | home-decor | cleaning,robot,practical,gadget | 299 | Coolblue | n
+Tado Smart Thermostat Starter Kit V3+ | tado° | tech-gadgets | smart home,energy,practical | 179 | Coolblue | n
+AncestryDNA Genetic Test Kit | AncestryDNA | experiences | dna,family history,curious | 79 | Amazon.nl | n
+Celestron PowerSeeker 70EQ Telescope | Celestron | creative-hobby | astronomy,space,stars,science | 130 | bol.com | n
+National Geographic Microscope Set | National Geographic | kids-toys | science,stem,kids,microscope | 50 | bol.com | n
