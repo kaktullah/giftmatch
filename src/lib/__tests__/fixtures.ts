@@ -1,4 +1,5 @@
 import type { Product } from "@/lib/types";
+import type { Intake } from "@/lib/intake";
 
 export function makeProduct(overrides: Partial<Product> = {}): Product {
   return {
@@ -20,3 +21,18 @@ export function makeProduct(overrides: Partial<Product> = {}): Product {
     ...overrides,
   };
 }
+
+export const sampleIntake: Intake = {
+  relationship: "parent",
+  ageRange: "41-60",
+  country: "NL",
+  occasion: "birthday",
+  neededBy: "2026-12-20",
+  budgetMinEur: 20,
+  budgetMaxEur: 60,
+  interestTags: ["Padel"],
+  interestText: "Into padel lately, drinks black coffee, hates clutter",
+  style: { practicalSentimental: 30, experienceObject: 60, classicTrendy: 50 },
+  avoid: ["candles"],
+  allowClothing: false,
+};
