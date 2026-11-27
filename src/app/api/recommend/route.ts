@@ -3,7 +3,10 @@ import { z } from "zod";
 import { IntakeSchema, anonymiseProfile, buildProfile } from "@/lib/intake";
 import { demoRecommend } from "@/lib/demoRecommend";
 import { getProductProvider } from "@/lib/providers";
-import { isDemoMode } from "@/lib/config";
+import { config, isDemoMode } from "@/lib/config";
+import { aiRecommend } from "@/lib/ai/pipeline";
+import { AnthropicLlm, type Usage } from "@/lib/ai/llm";
+import { costEur } from "@/lib/ai/cost";
 import { prisma } from "@/lib/db";
 
 const BodySchema = z.object({
@@ -21,9 +24,38 @@ export async function POST(req: Request) {
   }
 
   const profile = buildProfile(parsed.data.intake);
-  // The AI pipeline arrives in the next step; until then everything uses the demo ranking.
-  const mode = isDemoMode() ? "demo" : "demo-ai-pending";
-  const result = await demoRecommend(profile, getProductProvider(), parsed.data.feedback);
+  const provider = getProductProvider();
+  const feedback = parsed.data.feedback;
+
+  let mode = "demo";
+  let usage: Usage[] = [];
+  let promptVersion = "demo-v1";
+  let error: string | null = null;
+  let result;
+  if (isDemoMode()) {
+    result = await demoRecommend(profile, provider, feedback);
+  } else {
+    try {
+      const ai = await aiRecommend(profile, provider, new AnthropicLlm(config.anthropicApiKey), {
+        conceptModel: config.conceptModel,
+        rerankModel: config.rerankModel,
+      }, feedback);
+      result = ai;
+      usage = ai.usage;
+      promptVersion = ai.promptVersion;
+      mode = "ai";
+    } catch (err) {
+      // Fail gracefully: the user still gets rule-based results.
+      console.error("[recommend] AI pipeline failed, using demo ranking", err);
+      error = err instanceof Error ? err.message.slice(0, 500) : "unknown error";
+      result = await demoRecommend(profile, provider, feedback);
+      mode = "demo-fallback";
+    }
+  }
+  const inputTokens = usage.reduce((s, u) => s + u.inputTokens, 0);
+  const outputTokens = usage.reduce((s, u) => s + u.outputTokens, 0);
+  const cost = costEur(usage);
+  if (usage.length) console.info(`[recommend] tokens in=${inputTokens} out=${outputTokens} cost=€${cost.toFixed(4)}`);
 
   // Anonymised logging. A logging failure must never break the user's results.
   let requestId: string | null = null;
@@ -32,8 +64,14 @@ export async function POST(req: Request) {
     const row = await prisma.recommendationRequest.create({
       data: {
         profileJson: JSON.stringify(anonymiseProfile(profile)),
-        promptVersion: "demo-v1",
+        promptVersion,
         mode,
+        conceptModel: mode === "ai" ? config.conceptModel : null,
+        rerankModel: mode === "ai" ? config.rerankModel : null,
+        inputTokens,
+        outputTokens,
+        costEur: cost,
+        error,
         durationMs: Date.now() - started,
         items: {
           create: all.map((r, i) => ({
@@ -52,5 +90,5 @@ export async function POST(req: Request) {
     console.warn("[recommend] logging failed", err);
   }
 
-  return NextResponse.json({ requestId, mode, ...result });
+  return NextResponse.json({ requestId, mode, items: result.items, wildcard: result.wildcard, filteredOut: result.filteredOut });
 }

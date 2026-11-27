@@ -108,11 +108,10 @@ export function Results({
         <button type="button" onClick={onRestart} className="text-sm underline">Start over</button>
       </header>
       <h1 className="text-2xl font-bold">Your gift ideas</h1>
-      {result.mode !== "ai" && (
-        <p className="rounded-xl bg-amber-50 p-3 text-sm text-amber-800 dark:bg-amber-950 dark:text-amber-200">
-          Demo mode: ideas are matched by simple rules, without AI. Prices are approximate, check the price at the store.
-        </p>
-      )}
+      <p className="rounded-xl bg-amber-50 p-3 text-sm text-amber-800 dark:bg-amber-950 dark:text-amber-200">
+        {result.mode === "ai" ? "" : "Demo mode: ideas are matched by simple rules, without AI. "}
+        Prices are approximate, check the price at the store.
+      </p>
       {all.length === 0 ? (
         <p className="text-neutral-600">
           No gifts match all your answers yet. Try a wider budget, a later date or fewer things to avoid.

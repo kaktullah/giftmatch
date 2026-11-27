@@ -4,8 +4,8 @@ Describe a gift recipient in a short questionnaire and get a ranked shortlist of
 **real, buyable gifts** from real Dutch shops (bol.com, Coolblue, Amazon.nl), each
 with a price, a store link and a one-line reason why it fits.
 
-> Status: steps 1–4 of the roadmap. The questionnaire (`/find`) works end to end in
-> demo mode (rule-based ranking, no AI). The AI concept and rerank steps come next.
+> Status: steps 1–5 of the roadmap. With an `ANTHROPIC_API_KEY` the full AI pipeline runs;
+> without one the app uses rule-based demo ranking. The `/eval` personas come next.
 
 ## Run it locally
 
@@ -19,6 +19,9 @@ npm run dev            # start the app on http://localhost:3000
 ```
 
 Without an `ANTHROPIC_API_KEY` in `.env` the app runs in **demo mode** (no AI calls).
+With a key, it uses `ANTHROPIC_MODEL_CONCEPTS` (cheap, default Claude Haiku 5.5) for gift
+concepts and `ANTHROPIC_MODEL_RERANK` (stronger, default Claude Sonnet 5.5) for ranking and
+reasons. If an AI step fails twice, the request falls back to demo ranking instead of erroring.
 
 Other commands:
 
@@ -54,7 +57,10 @@ questionnaire → recipient profile → AI: gift concepts → product providers 
   "More like this" / "Not this".
 - **Ranking helpers** (`src/lib/ranking.ts`): dedupe, max 2 per category, wildcard pick.
 - **Logging** (`prisma/schema.prisma`): anonymised requests, shown items and clicks.
-- **Prompts** live in `/prompts` as versioned files.
+- **AI pipeline** (`src/lib/ai/`): concepts → provider search → hard filters → rerank. Both
+  steps use structured outputs validated with Zod, retry once, and log tokens and cost (€)
+  per request. Product ids the model returns that aren't real candidates are dropped.
+- **Prompts** live in `/prompts` as versioned files (`concepts.v1.md`, `rerank.v1.md`).
 
 ## Adding a store
 
