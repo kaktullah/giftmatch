@@ -3,21 +3,27 @@ import { ProductSchema, type Product } from "@/lib/types";
 import type { ProductProvider, ProductQuery } from "./ProductProvider";
 
 function normalize(s: string): string {
-  return s.toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}\s-]/gu, " ");
+  return s.toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}\s]/gu, " ").replace(/\s+/g, " ").trim();
+}
+
+/** Whole-word containment: "black coffee" contains "coffee", but "documentaries" does not contain "men". */
+function hasWords(haystack: string, needle: string): boolean {
+  return needle.length > 0 && ` ${haystack} `.includes(` ${needle} `);
 }
 
 /** How well a product matches the keywords. 0 = no match. */
 export function keywordScore(product: Product, keywords: string[]): number {
   const title = normalize(`${product.title} ${product.brand}`);
   const tags = product.tags.map(normalize);
+  const category = normalize(product.category);
   let score = 0;
   for (const raw of keywords) {
-    const kw = normalize(raw).trim();
+    const kw = normalize(raw);
     if (!kw) continue;
     if (tags.some((t) => t === kw)) score += 3;
-    else if (tags.some((t) => t.includes(kw) || kw.includes(t))) score += 2;
-    if (title.includes(kw)) score += 2;
-    if (product.category.includes(kw)) score += 1;
+    else if (tags.some((t) => hasWords(t, kw) || hasWords(kw, t))) score += 2;
+    if (hasWords(title, kw)) score += 2;
+    if (hasWords(category, kw)) score += 1;
   }
   return score;
 }

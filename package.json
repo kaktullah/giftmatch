@@ -11,7 +11,8 @@
     "typecheck": "tsc --noEmit",
     "db:push": "prisma db push",
     "catalog:generate": "tsx scripts/generate-catalog.ts",
-    "postinstall": "prisma generate"
+    "postinstall": "prisma generate",
+    "eval": "tsx eval/run-eval.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.14.0",
