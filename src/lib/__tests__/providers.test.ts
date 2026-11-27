@@ -84,3 +84,14 @@ describe("getProductProvider", () => {
     expect(getProductProvider("catalog, catalog").name).toBe("catalog+catalog");
   });
 });
+
+describe("keywordScore", () => {
+  const p = makeProduct({ title: "Smart Garden", tags: ["men", "black coffee"], category: "garden-plants" });
+  it("matches whole words only", async () => {
+    const { keywordScore } = await import("@/lib/providers/CatalogProvider");
+    expect(keywordScore(p, ["documentaries"])).toBe(0); // contains "men" but not as a word
+    expect(keywordScore(p, ["art"])).toBe(0); // inside "Smart"
+    expect(keywordScore(p, ["coffee"])).toBeGreaterThan(0); // word inside "black coffee"
+    expect(keywordScore(p, ["garden"])).toBeGreaterThan(0);
+  });
+});

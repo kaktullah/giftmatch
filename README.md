@@ -4,8 +4,8 @@ Describe a gift recipient in a short questionnaire and get a ranked shortlist of
 **real, buyable gifts** from real Dutch shops (bol.com, Coolblue, Amazon.nl), each
 with a price, a store link and a one-line reason why it fits.
 
-> Status: steps 1–5 of the roadmap. With an `ANTHROPIC_API_KEY` the full AI pipeline runs;
-> without one the app uses rule-based demo ranking. The `/eval` personas come next.
+> Status: all Phase 1 roadmap steps are built. With an `ANTHROPIC_API_KEY` the full AI
+> pipeline runs; without one the app uses rule-based demo ranking.
 
 ## Run it locally
 
@@ -30,6 +30,7 @@ Other commands:
 | `npm test` | Run the unit tests (filters, ranking, providers) |
 | `npm run typecheck` | Check TypeScript types |
 | `npm run lint` | Lint the code |
+| `npm run eval` | Run all 15 test personas and write a report to `eval/results/` (uses the API if a key is set; add `-- --demo` for a free run, `-- --only student-20` for one persona) |
 | `npm run catalog:generate` | Rebuild `data/catalog.json` from `data/catalog-source.txt` |
 
 ## How it works
@@ -69,3 +70,12 @@ questionnaire → recipient profile → AI: gift concepts → product providers 
 3. Add its name to `PRODUCT_PROVIDERS`, e.g. `PRODUCT_PROVIDERS=catalog,mystore`.
 
 Providers must only return products that really exist in their source.
+
+## Evaluating prompt versions
+
+`eval/personas.json` holds 15 test personas (student on €20, dad who "has everything",
+partner who loves cooking, secret Santa, a last-minute request, an impossible request, …).
+`npm run eval` runs each one through the full pipeline and writes a markdown report with
+the ranked products, reasons, tokens, cost and rule checks (budget, max 2 per category,
+empty reasons). Reports are named after the prompt version, so you can open two side by
+side after changing a prompt.
