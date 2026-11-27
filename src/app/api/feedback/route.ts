@@ -12,7 +12,7 @@ const FeedbackSchema = z.object({
 export async function POST(req: Request) {
   const parsed = FeedbackSchema.safeParse(await req.json().catch(() => null));
   if (!parsed.success) return NextResponse.json({ error: "invalid_input" }, { status: 400 });
-  try {
+  if (process.env.DATABASE_URL) try {
     await prisma.feedbackEvent.create({ data: parsed.data });
   } catch (err) {
     console.warn("[feedback] logging failed", err);

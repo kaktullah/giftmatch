@@ -79,3 +79,13 @@ partner who loves cooking, secret Santa, a last-minute request, an impossible re
 the ranked products, reasons, tokens, cost and rule checks (budget, max 2 per category,
 empty reasons). Reports are named after the prompt version, so you can open two side by
 side after changing a prompt.
+
+## Putting it online (Vercel, free)
+
+1. Sign in at [vercel.com](https://vercel.com) with your GitHub account.
+2. **Add New → Project**, pick the `giftmatch` repository, click **Deploy**.
+
+No settings are needed: without `ANTHROPIC_API_KEY` it runs in demo mode, and without
+`DATABASE_URL` it simply skips logging (SQLite files don't persist on Vercel; use a hosted
+database such as Turso or Postgres later). To turn on the AI, add `ANTHROPIC_API_KEY` under
+**Project → Settings → Environment Variables** and redeploy.
