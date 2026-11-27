@@ -4,8 +4,8 @@ Describe a gift recipient in a short questionnaire and get a ranked shortlist of
 **real, buyable gifts** from real Dutch shops (bol.com, Coolblue, Amazon.nl), each
 with a price, a store link and a one-line reason why it fits.
 
-> Status: step 1–3 of the roadmap (skeleton, product catalog, filters + tests).
-> The questionnaire and AI steps come next.
+> Status: steps 1–4 of the roadmap. The questionnaire (`/find`) works end to end in
+> demo mode (rule-based ranking, no AI). The AI concept and rerank steps come next.
 
 ## Run it locally
 
@@ -47,6 +47,11 @@ questionnaire → recipient profile → AI: gift concepts → product providers 
 - **Hard filters** (`src/lib/filters.ts`): budget, in stock, ships to the country,
   arrives before the deadline, clothing allowed, avoid list. These run in code, never
   in the AI.
+- **Questionnaire** (`src/app/find/`, `src/lib/intake.ts`): 6 short steps, validated with Zod,
+  turned into a recipient profile. Free text and the avoid list are never stored.
+- **Demo ranking** (`src/lib/demoRecommend.ts`): used until the AI steps exist. Same rules
+  as the real pipeline: provider products only, hard filters, max 2 per category, wildcard,
+  "More like this" / "Not this".
 - **Ranking helpers** (`src/lib/ranking.ts`): dedupe, max 2 per category, wildcard pick.
 - **Logging** (`prisma/schema.prisma`): anonymised requests, shown items and clicks.
 - **Prompts** live in `/prompts` as versioned files.

@@ -1,5 +1,6 @@
 export const dynamic = "force-dynamic";
 
+import Link from "next/link";
 import { CatalogProvider } from "@/lib/providers/CatalogProvider";
 import { isDemoMode } from "@/lib/config";
 
@@ -24,12 +25,12 @@ export default function Home() {
           </p>
         )}
       </div>
-      <button
-        disabled
-        className="rounded-full bg-neutral-900 px-6 py-3 font-medium text-white opacity-60 dark:bg-white dark:text-neutral-900"
+      <Link
+        href="/find"
+        className="rounded-full bg-neutral-900 px-6 py-3 text-center font-medium text-white dark:bg-white dark:text-neutral-900"
       >
-        Find a gift (coming soon)
-      </button>
+        Find a gift
+      </Link>
     </main>
   );
 }
