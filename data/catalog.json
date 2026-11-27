@@ -1,0 +1,5159 @@
+[
+  {
+    "id": "catalog-aeropress-original-coffee-maker",
+    "title": "AeroPress Original Coffee Maker",
+    "brand": "AeroPress",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "black coffee",
+      "travel",
+      "manual brewing"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=AeroPress%20Original%20Coffee%20Maker",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-hario-v60-ceramic-dripper-size-02",
+    "title": "Hario V60 Ceramic Dripper Size 02",
+    "brand": "Hario",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "black coffee",
+      "pour over",
+      "manual brewing"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Hario%20V60%20Ceramic%20Dripper%20Size%2002",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bialetti-moka-express-6-cups",
+    "title": "Bialetti Moka Express 6 Cups",
+    "brand": "Bialetti",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "espresso",
+      "italian",
+      "classic"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bialetti%20Moka%20Express%206%20Cups",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-timemore-chestnut-c2-manual-coffee-grinder",
+    "title": "Timemore Chestnut C2 Manual Coffee Grinder",
+    "brand": "Timemore",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "grinder",
+      "manual brewing",
+      "coffee nerd"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Timemore%20Chestnut%20C2%20Manual%20Coffee%20Grinder",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-fellow-stagg-ekg-electric-pour-over-kettle",
+    "title": "Fellow Stagg EKG Electric Pour-Over Kettle",
+    "brand": "Fellow",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "kettle",
+      "pour over",
+      "design"
+    ],
+    "priceEur": 179,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Fellow%20Stagg%20EKG%20Electric%20Pour-Over%20Kettle",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bodum-chambord-french-press-1-l",
+    "title": "Bodum Chambord French Press 1 L",
+    "brand": "Bodum",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "french press",
+      "classic"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bodum%20Chambord%20French%20Press%201%20L",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-de-longhi-dedica-style-ec685-espresso-machine",
+    "title": "De'Longhi Dedica Style EC685 Espresso Machine",
+    "brand": "De'Longhi",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "espresso",
+      "machine",
+      "latte"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=De'Longhi%20Dedica%20Style%20EC685%20Espresso%20Machine",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-nespresso-vertuo-pop",
+    "title": "Nespresso Vertuo Pop",
+    "brand": "Nespresso",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "capsules",
+      "easy",
+      "student"
+    ],
+    "priceEur": 89,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Nespresso%20Vertuo%20Pop",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-philips-lattego-2200-series-ep2231-40",
+    "title": "Philips LatteGo 2200 Series EP2231/40",
+    "brand": "Philips",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "espresso",
+      "bean to cup",
+      "latte"
+    ],
+    "priceEur": 399,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Philips%20LatteGo%202200%20Series%20EP2231%2F40",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-keepcup-brew-cork-reusable-cup-340-ml",
+    "title": "KeepCup Brew Cork Reusable Cup 340 ml",
+    "brand": "KeepCup",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "eco",
+      "commute",
+      "sustainable"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=KeepCup%20Brew%20Cork%20Reusable%20Cup%20340%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-hario-cold-brew-coffee-bottle-650-ml",
+    "title": "Hario Cold Brew Coffee Bottle 650 ml",
+    "brand": "Hario",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "cold brew",
+      "summer"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Hario%20Cold%20Brew%20Coffee%20Bottle%20650%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-matcha-tea-set-with-bamboo-whisk-and-bowl",
+    "title": "Matcha Tea Set with Bamboo Whisk and Bowl",
+    "brand": "Various",
+    "category": "coffee-tea",
+    "tags": [
+      "tea",
+      "matcha",
+      "japanese",
+      "ritual"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Matcha%20Tea%20Set%20with%20Bamboo%20Whisk%20and%20Bowl",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bredemeijer-teapot-minuet-santhee-1-2-l",
+    "title": "Bredemeijer Teapot Minuet Santhee 1.2 L",
+    "brand": "Bredemeijer",
+    "category": "coffee-tea",
+    "tags": [
+      "tea",
+      "teapot",
+      "classic",
+      "dutch"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bredemeijer%20Teapot%20Minuet%20Santhee%201.2%20L",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-dilmah-tea-gift-box-exceptional-selection",
+    "title": "Dilmah Tea Gift Box Exceptional Selection",
+    "brand": "Dilmah",
+    "category": "coffee-tea",
+    "tags": [
+      "tea",
+      "gift box",
+      "variety"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Dilmah%20Tea%20Gift%20Box%20Exceptional%20Selection",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-le-creuset-signature-cast-iron-casserole-24-cm",
+    "title": "Le Creuset Signature Cast Iron Casserole 24 cm",
+    "brand": "Le Creuset",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "cast iron",
+      "stew",
+      "premium"
+    ],
+    "priceEur": 299,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Le%20Creuset%20Signature%20Cast%20Iron%20Casserole%2024%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lodge-cast-iron-skillet-26-cm",
+    "title": "Lodge Cast Iron Skillet 26 cm",
+    "brand": "Lodge",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "cast iron",
+      "steak",
+      "outdoor cooking"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Lodge%20Cast%20Iron%20Skillet%2026%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-victorinox-swiss-classic-chef-s-knife-19-cm",
+    "title": "Victorinox Swiss Classic Chef's Knife 19 cm",
+    "brand": "Victorinox",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "knife",
+      "chef",
+      "practical"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Victorinox%20Swiss%20Classic%20Chef's%20Knife%2019%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-global-g-2-chef-s-knife-20-cm",
+    "title": "Global G-2 Chef's Knife 20 cm",
+    "brand": "Global",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "knife",
+      "japanese",
+      "chef",
+      "premium"
+    ],
+    "priceEur": 110,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Global%20G-2%20Chef's%20Knife%2020%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-tefal-ingenio-emotion-13-piece-pan-set",
+    "title": "Tefal Ingenio Emotion 13-piece Pan Set",
+    "brand": "Tefal",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "pans",
+      "space saving",
+      "practical"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Tefal%20Ingenio%20Emotion%2013-piece%20Pan%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-philips-airfryer-xxl-hd9650-90",
+    "title": "Philips Airfryer XXL HD9650/90",
+    "brand": "Philips",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "airfryer",
+      "healthy",
+      "practical"
+    ],
+    "priceEur": 249,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Philips%20Airfryer%20XXL%20HD9650%2F90",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ninja-foodi-dual-zone-airfryer-af300eu",
+    "title": "Ninja Foodi Dual Zone Airfryer AF300EU",
+    "brand": "Ninja",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "airfryer",
+      "family",
+      "practical"
+    ],
+    "priceEur": 179,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Ninja%20Foodi%20Dual%20Zone%20Airfryer%20AF300EU",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kitchenaid-artisan-stand-mixer-5ksm175",
+    "title": "KitchenAid Artisan Stand Mixer 5KSM175",
+    "brand": "KitchenAid",
+    "category": "kitchen",
+    "tags": [
+      "baking",
+      "mixer",
+      "premium",
+      "design"
+    ],
+    "priceEur": 549,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=KitchenAid%20Artisan%20Stand%20Mixer%205KSM175",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ottolenghi-simple-cookbook",
+    "title": "Ottolenghi Simple Cookbook",
+    "brand": "Ebury Press",
+    "category": "books",
+    "tags": [
+      "cooking",
+      "cookbook",
+      "vegetarian",
+      "middle eastern"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Ottolenghi%20Simple%20Cookbook",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-salt-fat-acid-heat-by-samin-nosrat",
+    "title": "Salt Fat Acid Heat by Samin Nosrat",
+    "brand": "Canongate",
+    "category": "books",
+    "tags": [
+      "cooking",
+      "cookbook",
+      "learning",
+      "technique"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Salt%20Fat%20Acid%20Heat%20by%20Samin%20Nosrat",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-joseph-joseph-nest-9-plus-bowl-set",
+    "title": "Joseph Joseph Nest 9 Plus Bowl Set",
+    "brand": "Joseph Joseph",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "baking",
+      "space saving",
+      "colorful"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Joseph%20Joseph%20Nest%209%20Plus%20Bowl%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-microplane-premium-classic-zester",
+    "title": "Microplane Premium Classic Zester",
+    "brand": "Microplane",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "baking",
+      "tool",
+      "small"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Microplane%20Premium%20Classic%20Zester",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-thermopro-tp19h-digital-meat-thermometer",
+    "title": "ThermoPro TP19H Digital Meat Thermometer",
+    "brand": "ThermoPro",
+    "category": "kitchen",
+    "tags": [
+      "cooking",
+      "bbq",
+      "steak",
+      "gadget"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=ThermoPro%20TP19H%20Digital%20Meat%20Thermometer",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-weber-original-kettle-e-5730-bbq-57-cm",
+    "title": "Weber Original Kettle E-5730 BBQ 57 cm",
+    "brand": "Weber",
+    "category": "garden-plants",
+    "tags": [
+      "bbq",
+      "grilling",
+      "outdoor cooking",
+      "summer"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Weber%20Original%20Kettle%20E-5730%20BBQ%2057%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-weber-go-anywhere-charcoal-bbq",
+    "title": "Weber Go-Anywhere Charcoal BBQ",
+    "brand": "Weber",
+    "category": "outdoor-travel",
+    "tags": [
+      "bbq",
+      "grilling",
+      "camping",
+      "portable"
+    ],
+    "priceEur": 89,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Weber%20Go-Anywhere%20Charcoal%20BBQ",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ooni-koda-12-gas-pizza-oven",
+    "title": "Ooni Koda 12 Gas Pizza Oven",
+    "brand": "Ooni",
+    "category": "garden-plants",
+    "tags": [
+      "pizza",
+      "outdoor cooking",
+      "italian",
+      "party"
+    ],
+    "priceEur": 399,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Ooni%20Koda%2012%20Gas%20Pizza%20Oven",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-emile-henry-pizza-stone-36-cm",
+    "title": "Emile Henry Pizza Stone 36 cm",
+    "brand": "Emile Henry",
+    "category": "kitchen",
+    "tags": [
+      "pizza",
+      "baking",
+      "italian"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Emile%20Henry%20Pizza%20Stone%2036%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-le-kue-bread-maker-kit",
+    "title": "Lékué Bread Maker Kit",
+    "brand": "Lékué",
+    "category": "kitchen",
+    "tags": [
+      "baking",
+      "bread",
+      "sourdough"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=L%C3%A9ku%C3%A9%20Bread%20Maker%20Kit",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-brabantia-bo-touch-bin-2x30-l",
+    "title": "Brabantia Bo Touch Bin 2x30 L",
+    "brand": "Brabantia",
+    "category": "home-decor",
+    "tags": [
+      "practical",
+      "home",
+      "recycling",
+      "design"
+    ],
+    "priceEur": 279,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Brabantia%20Bo%20Touch%20Bin%202x30%20L",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-sodastream-terra-sparkling-water-maker",
+    "title": "Sodastream Terra Sparkling Water Maker",
+    "brand": "SodaStream",
+    "category": "drinks-bar",
+    "tags": [
+      "sparkling water",
+      "eco",
+      "practical",
+      "healthy"
+    ],
+    "priceEur": 89,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Sodastream%20Terra%20Sparkling%20Water%20Maker",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-vacu-vin-wine-saver-gift-set",
+    "title": "Vacu Vin Wine Saver Gift Set",
+    "brand": "Vacu Vin",
+    "category": "drinks-bar",
+    "tags": [
+      "wine",
+      "practical",
+      "small"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Vacu%20Vin%20Wine%20Saver%20Gift%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-riedel-veritas-cabernet-wine-glasses-set-of-2",
+    "title": "Riedel Veritas Cabernet Wine Glasses (set of 2)",
+    "brand": "Riedel",
+    "category": "drinks-bar",
+    "tags": [
+      "wine",
+      "glasses",
+      "premium"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Riedel%20Veritas%20Cabernet%20Wine%20Glasses%20(set%20of%202)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-coravin-pivot-wine-preservation-system",
+    "title": "Coravin Pivot Wine Preservation System",
+    "brand": "Coravin",
+    "category": "drinks-bar",
+    "tags": [
+      "wine",
+      "gadget",
+      "premium",
+      "wine lover"
+    ],
+    "priceEur": 99,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Coravin%20Pivot%20Wine%20Preservation%20System",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-cocktail-shaker-set-10-piece-stainless-steel",
+    "title": "Cocktail Shaker Set 10-piece Stainless Steel",
+    "brand": "Mixology & Craft",
+    "category": "drinks-bar",
+    "tags": [
+      "cocktails",
+      "party",
+      "mixology"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Cocktail%20Shaker%20Set%2010-piece%20Stainless%20Steel",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-whisky-stones-gift-set-with-glasses",
+    "title": "Whisky Stones Gift Set with Glasses",
+    "brand": "Amerigo",
+    "category": "drinks-bar",
+    "tags": [
+      "whisky",
+      "glasses",
+      "gift box",
+      "classic"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Whisky%20Stones%20Gift%20Set%20with%20Glasses",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-glencairn-whisky-glass-set-of-2",
+    "title": "Glencairn Whisky Glass (set of 2)",
+    "brand": "Glencairn",
+    "category": "drinks-bar",
+    "tags": [
+      "whisky",
+      "glasses",
+      "tasting"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Glencairn%20Whisky%20Glass%20(set%20of%202)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-brewferm-beer-brewing-kit-starter",
+    "title": "Brewferm Beer Brewing Kit Starter",
+    "brand": "Brewferm",
+    "category": "drinks-bar",
+    "tags": [
+      "beer",
+      "brewing",
+      "diy",
+      "hobby"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Brewferm%20Beer%20Brewing%20Kit%20Starter",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-leuchtturm1917-whisky-tasting-journal",
+    "title": "Leuchtturm1917 Whisky Tasting Journal",
+    "brand": "Leuchtturm1917",
+    "category": "drinks-bar",
+    "tags": [
+      "whisky",
+      "journal",
+      "tasting"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Leuchtturm1917%20Whisky%20Tasting%20Journal",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-wilson-pro-staff-padel-racket",
+    "title": "Wilson Pro Staff Padel Racket",
+    "brand": "Wilson",
+    "category": "sports-fitness",
+    "tags": [
+      "padel",
+      "racket",
+      "sport"
+    ],
+    "priceEur": 90,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Wilson%20Pro%20Staff%20Padel%20Racket",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bullpadel-vertex-03-padel-racket",
+    "title": "Bullpadel Vertex 03 Padel Racket",
+    "brand": "Bullpadel",
+    "category": "sports-fitness",
+    "tags": [
+      "padel",
+      "racket",
+      "sport",
+      "premium"
+    ],
+    "priceEur": 220,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bullpadel%20Vertex%2003%20Padel%20Racket",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-head-padel-pro-balls-3-pack",
+    "title": "Head Padel Pro Balls (3-pack)",
+    "brand": "Head",
+    "category": "sports-fitness",
+    "tags": [
+      "padel",
+      "balls",
+      "small"
+    ],
+    "priceEur": 8,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Head%20Padel%20Pro%20Balls%20(3-pack)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-babolat-padel-bag-classic",
+    "title": "Babolat Padel Bag Classic",
+    "brand": "Babolat",
+    "category": "sports-fitness",
+    "tags": [
+      "padel",
+      "bag",
+      "sport"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Babolat%20Padel%20Bag%20Classic",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-garmin-forerunner-165-gps-running-watch",
+    "title": "Garmin Forerunner 165 GPS Running Watch",
+    "brand": "Garmin",
+    "category": "sports-fitness",
+    "tags": [
+      "running",
+      "watch",
+      "gps",
+      "fitness"
+    ],
+    "priceEur": 249,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Garmin%20Forerunner%20165%20GPS%20Running%20Watch",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-polar-pacer-running-watch",
+    "title": "Polar Pacer Running Watch",
+    "brand": "Polar",
+    "category": "sports-fitness",
+    "tags": [
+      "running",
+      "watch",
+      "fitness"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Polar%20Pacer%20Running%20Watch",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-fitbit-charge-6",
+    "title": "Fitbit Charge 6",
+    "brand": "Fitbit",
+    "category": "sports-fitness",
+    "tags": [
+      "fitness",
+      "tracker",
+      "health",
+      "sleep"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Fitbit%20Charge%206",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-theragun-mini-2nd-gen-massage-gun",
+    "title": "Theragun Mini 2nd Gen Massage Gun",
+    "brand": "Therabody",
+    "category": "sports-fitness",
+    "tags": [
+      "recovery",
+      "massage",
+      "fitness",
+      "gym"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Theragun%20Mini%202nd%20Gen%20Massage%20Gun",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-blackroll-standard-foam-roller",
+    "title": "Blackroll Standard Foam Roller",
+    "brand": "Blackroll",
+    "category": "sports-fitness",
+    "tags": [
+      "recovery",
+      "foam roller",
+      "yoga",
+      "running"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Blackroll%20Standard%20Foam%20Roller",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-manduka-pro-yoga-mat-6-mm",
+    "title": "Manduka PRO Yoga Mat 6 mm",
+    "brand": "Manduka",
+    "category": "sports-fitness",
+    "tags": [
+      "yoga",
+      "mat",
+      "premium"
+    ],
+    "priceEur": 120,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Manduka%20PRO%20Yoga%20Mat%206%20mm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kettlebell-cast-iron-12-kg",
+    "title": "Kettlebell Cast Iron 12 kg",
+    "brand": "Tunturi",
+    "category": "sports-fitness",
+    "tags": [
+      "gym",
+      "home workout",
+      "strength"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Kettlebell%20Cast%20Iron%2012%20kg",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-trx-all-in-one-suspension-trainer",
+    "title": "TRX All-in-One Suspension Trainer",
+    "brand": "TRX",
+    "category": "sports-fitness",
+    "tags": [
+      "home workout",
+      "strength",
+      "travel"
+    ],
+    "priceEur": 150,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=TRX%20All-in-One%20Suspension%20Trainer",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-speedo-fastskin-speedsocket-2-goggles",
+    "title": "Speedo Fastskin Speedsocket 2 Goggles",
+    "brand": "Speedo",
+    "category": "sports-fitness",
+    "tags": [
+      "swimming",
+      "goggles"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Speedo%20Fastskin%20Speedsocket%202%20Goggles",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-hydro-flask-32-oz-wide-mouth-bottle",
+    "title": "Hydro Flask 32 oz Wide Mouth Bottle",
+    "brand": "Hydro Flask",
+    "category": "outdoor-travel",
+    "tags": [
+      "hiking",
+      "bottle",
+      "eco",
+      "gym"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Hydro%20Flask%2032%20oz%20Wide%20Mouth%20Bottle",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-stanley-quencher-h2-0-flowstate-tumbler-1-2-l",
+    "title": "Stanley Quencher H2.0 FlowState Tumbler 1.2 L",
+    "brand": "Stanley",
+    "category": "outdoor-travel",
+    "tags": [
+      "bottle",
+      "trendy",
+      "gym",
+      "office"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Stanley%20Quencher%20H2.0%20FlowState%20Tumbler%201.2%20L",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-black-diamond-spot-400-headlamp",
+    "title": "Black Diamond Spot 400 Headlamp",
+    "brand": "Black Diamond",
+    "category": "outdoor-travel",
+    "tags": [
+      "hiking",
+      "camping",
+      "headlamp",
+      "running"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Black%20Diamond%20Spot%20400%20Headlamp",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-osprey-daylite-plus-backpack-20-l",
+    "title": "Osprey Daylite Plus Backpack 20 L",
+    "brand": "Osprey",
+    "category": "outdoor-travel",
+    "tags": [
+      "hiking",
+      "backpack",
+      "commute",
+      "travel"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Osprey%20Daylite%20Plus%20Backpack%2020%20L",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-victorinox-swiss-army-knife-huntsman",
+    "title": "Victorinox Swiss Army Knife Huntsman",
+    "brand": "Victorinox",
+    "category": "outdoor-travel",
+    "tags": [
+      "camping",
+      "hiking",
+      "tool",
+      "classic"
+    ],
+    "priceEur": 55,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Victorinox%20Swiss%20Army%20Knife%20Huntsman",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-leatherman-wave-multitool",
+    "title": "Leatherman Wave+ Multitool",
+    "brand": "Leatherman",
+    "category": "outdoor-travel",
+    "tags": [
+      "tool",
+      "diy",
+      "camping",
+      "practical"
+    ],
+    "priceEur": 150,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Leatherman%20Wave%2B%20Multitool",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-helinox-chair-one-camping-chair",
+    "title": "Helinox Chair One Camping Chair",
+    "brand": "Helinox",
+    "category": "outdoor-travel",
+    "tags": [
+      "camping",
+      "festival",
+      "lightweight"
+    ],
+    "priceEur": 110,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Helinox%20Chair%20One%20Camping%20Chair",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-sea-to-summit-aeros-premium-pillow",
+    "title": "Sea to Summit Aeros Premium Pillow",
+    "brand": "Sea to Summit",
+    "category": "outdoor-travel",
+    "tags": [
+      "camping",
+      "travel",
+      "sleep"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Sea%20to%20Summit%20Aeros%20Premium%20Pillow",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-garmin-edge-540-bike-computer",
+    "title": "Garmin Edge 540 Bike Computer",
+    "brand": "Garmin",
+    "category": "sports-fitness",
+    "tags": [
+      "cycling",
+      "gps",
+      "bike",
+      "road cycling"
+    ],
+    "priceEur": 349,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Garmin%20Edge%20540%20Bike%20Computer",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-abus-bordo-6000-folding-bike-lock",
+    "title": "Abus Bordo 6000 Folding Bike Lock",
+    "brand": "Abus",
+    "category": "sports-fitness",
+    "tags": [
+      "cycling",
+      "bike",
+      "lock",
+      "commute",
+      "practical"
+    ],
+    "priceEur": 80,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Abus%20Bordo%206000%20Folding%20Bike%20Lock",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lezyne-micro-drive-600xl-front-light",
+    "title": "Lezyne Micro Drive 600XL Front Light",
+    "brand": "Lezyne",
+    "category": "sports-fitness",
+    "tags": [
+      "cycling",
+      "bike",
+      "light",
+      "commute"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Lezyne%20Micro%20Drive%20600XL%20Front%20Light",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-samsonite-proxis-spinner-55-cm-cabin-case",
+    "title": "Samsonite Proxis Spinner 55 cm Cabin Case",
+    "brand": "Samsonite",
+    "category": "outdoor-travel",
+    "tags": [
+      "travel",
+      "luggage",
+      "premium"
+    ],
+    "priceEur": 299,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Samsonite%20Proxis%20Spinner%2055%20cm%20Cabin%20Case",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bellroy-travel-wallet",
+    "title": "Bellroy Travel Wallet",
+    "brand": "Bellroy",
+    "category": "accessories",
+    "tags": [
+      "travel",
+      "wallet",
+      "passport",
+      "design"
+    ],
+    "priceEur": 110,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Bellroy%20Travel%20Wallet",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-apple-airtag-4-pack",
+    "title": "Apple AirTag 4-pack",
+    "brand": "Apple",
+    "category": "tech-gadgets",
+    "tags": [
+      "travel",
+      "tracker",
+      "apple",
+      "practical"
+    ],
+    "priceEur": 119,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Apple%20AirTag%204-pack",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-scratch-map-travel-edition-world-poster",
+    "title": "Scratch Map Travel Edition World Poster",
+    "brand": "Luckies of London",
+    "category": "outdoor-travel",
+    "tags": [
+      "travel",
+      "map",
+      "decor",
+      "wanderlust"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Scratch%20Map%20Travel%20Edition%20World%20Poster",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lonely-planet-s-ultimate-travel-list",
+    "title": "Lonely Planet's Ultimate Travel List",
+    "brand": "Lonely Planet",
+    "category": "books",
+    "tags": [
+      "travel",
+      "book",
+      "bucket list"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Lonely%20Planet's%20Ultimate%20Travel%20List",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kindle-paperwhite-16-gb",
+    "title": "Kindle Paperwhite (16 GB)",
+    "brand": "Amazon",
+    "category": "tech-gadgets",
+    "tags": [
+      "reading",
+      "ebook",
+      "books",
+      "travel"
+    ],
+    "priceEur": 170,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Kindle%20Paperwhite%20(16%20GB)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kobo-clara-bw-e-reader",
+    "title": "Kobo Clara BW e-reader",
+    "brand": "Kobo",
+    "category": "tech-gadgets",
+    "tags": [
+      "reading",
+      "ebook",
+      "books"
+    ],
+    "priceEur": 140,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Kobo%20Clara%20BW%20e-reader",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-apple-airpods-pro-2",
+    "title": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "category": "audio-music",
+    "tags": [
+      "headphones",
+      "apple",
+      "noise cancelling",
+      "commute"
+    ],
+    "priceEur": 249,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Apple%20AirPods%20Pro%202",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-sony-wh-1000xm5-headphones",
+    "title": "Sony WH-1000XM5 Headphones",
+    "brand": "Sony",
+    "category": "audio-music",
+    "tags": [
+      "headphones",
+      "noise cancelling",
+      "travel",
+      "music"
+    ],
+    "priceEur": 349,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Sony%20WH-1000XM5%20Headphones",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-jbl-flip-6-bluetooth-speaker",
+    "title": "JBL Flip 6 Bluetooth Speaker",
+    "brand": "JBL",
+    "category": "audio-music",
+    "tags": [
+      "speaker",
+      "music",
+      "party",
+      "outdoor"
+    ],
+    "priceEur": 119,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=JBL%20Flip%206%20Bluetooth%20Speaker",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-marshall-emberton-ii-speaker",
+    "title": "Marshall Emberton II Speaker",
+    "brand": "Marshall",
+    "category": "audio-music",
+    "tags": [
+      "speaker",
+      "music",
+      "rock",
+      "design"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Marshall%20Emberton%20II%20Speaker",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-sonos-era-100",
+    "title": "Sonos Era 100",
+    "brand": "Sonos",
+    "category": "audio-music",
+    "tags": [
+      "speaker",
+      "music",
+      "home",
+      "premium"
+    ],
+    "priceEur": 279,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Sonos%20Era%20100",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-audio-technica-at-lp60x-turntable",
+    "title": "Audio-Technica AT-LP60X Turntable",
+    "brand": "Audio-Technica",
+    "category": "audio-music",
+    "tags": [
+      "vinyl",
+      "records",
+      "music",
+      "retro"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Audio-Technica%20AT-LP60X%20Turntable",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-crosley-cruiser-plus-portable-turntable",
+    "title": "Crosley Cruiser Plus Portable Turntable",
+    "brand": "Crosley",
+    "category": "audio-music",
+    "tags": [
+      "vinyl",
+      "records",
+      "retro",
+      "trendy"
+    ],
+    "priceEur": 99,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Crosley%20Cruiser%20Plus%20Portable%20Turntable",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-yamaha-f310-acoustic-guitar",
+    "title": "Yamaha F310 Acoustic Guitar",
+    "brand": "Yamaha",
+    "category": "audio-music",
+    "tags": [
+      "guitar",
+      "music",
+      "learning",
+      "instrument"
+    ],
+    "priceEur": 169,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Yamaha%20F310%20Acoustic%20Guitar",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-yamaha-pss-a50-mini-keyboard",
+    "title": "Yamaha PSS-A50 Mini Keyboard",
+    "brand": "Yamaha",
+    "category": "audio-music",
+    "tags": [
+      "piano",
+      "music",
+      "instrument",
+      "beginner"
+    ],
+    "priceEur": 129,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Yamaha%20PSS-A50%20Mini%20Keyboard",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kala-soprano-ukulele-ka-15s",
+    "title": "Kala Soprano Ukulele KA-15S",
+    "brand": "Kala",
+    "category": "audio-music",
+    "tags": [
+      "ukulele",
+      "music",
+      "instrument",
+      "beginner"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Kala%20Soprano%20Ukulele%20KA-15S",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-shure-mv7-podcast-microphone",
+    "title": "Shure MV7+ Podcast Microphone",
+    "brand": "Shure",
+    "category": "audio-music",
+    "tags": [
+      "podcast",
+      "microphone",
+      "streaming",
+      "creator"
+    ],
+    "priceEur": 279,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Shure%20MV7%2B%20Podcast%20Microphone",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-spotify-premium-gift-card-3-months",
+    "title": "Spotify Premium Gift Card 3 months",
+    "brand": "Spotify",
+    "category": "audio-music",
+    "tags": [
+      "music",
+      "streaming",
+      "gift card"
+    ],
+    "priceEur": 33,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Spotify%20Premium%20Gift%20Card%203%20months",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-anker-powercore-10000-power-bank",
+    "title": "Anker PowerCore 10000 Power Bank",
+    "brand": "Anker",
+    "category": "tech-gadgets",
+    "tags": [
+      "practical",
+      "phone",
+      "travel",
+      "charger"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Anker%20PowerCore%2010000%20Power%20Bank",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-anker-3-in-1-magsafe-charging-station",
+    "title": "Anker 3-in-1 MagSafe Charging Station",
+    "brand": "Anker",
+    "category": "tech-gadgets",
+    "tags": [
+      "charger",
+      "apple",
+      "iphone",
+      "desk"
+    ],
+    "priceEur": 110,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Anker%203-in-1%20MagSafe%20Charging%20Station",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-logitech-mx-master-3s-mouse",
+    "title": "Logitech MX Master 3S Mouse",
+    "brand": "Logitech",
+    "category": "tech-gadgets",
+    "tags": [
+      "office",
+      "desk",
+      "productivity",
+      "mouse"
+    ],
+    "priceEur": 99,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Logitech%20MX%20Master%203S%20Mouse",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-logitech-mx-keys-s-keyboard",
+    "title": "Logitech MX Keys S Keyboard",
+    "brand": "Logitech",
+    "category": "tech-gadgets",
+    "tags": [
+      "office",
+      "desk",
+      "productivity",
+      "keyboard"
+    ],
+    "priceEur": 119,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Logitech%20MX%20Keys%20S%20Keyboard",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-keychron-k2-mechanical-keyboard",
+    "title": "Keychron K2 Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "tech-gadgets",
+    "tags": [
+      "keyboard",
+      "programming",
+      "mechanical",
+      "desk"
+    ],
+    "priceEur": 99,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Keychron%20K2%20Mechanical%20Keyboard",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-benq-screenbar-led-monitor-light",
+    "title": "BenQ ScreenBar LED Monitor Light",
+    "brand": "BenQ",
+    "category": "tech-gadgets",
+    "tags": [
+      "desk",
+      "office",
+      "lamp",
+      "work from home"
+    ],
+    "priceEur": 109,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=BenQ%20ScreenBar%20LED%20Monitor%20Light",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-philips-hue-white-and-color-starter-kit-e27",
+    "title": "Philips Hue White and Color Starter Kit E27",
+    "brand": "Philips Hue",
+    "category": "tech-gadgets",
+    "tags": [
+      "smart home",
+      "lights",
+      "gadget"
+    ],
+    "priceEur": 159,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Philips%20Hue%20White%20and%20Color%20Starter%20Kit%20E27",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-google-nest-mini",
+    "title": "Google Nest Mini",
+    "brand": "Google",
+    "category": "tech-gadgets",
+    "tags": [
+      "smart home",
+      "speaker",
+      "assistant"
+    ],
+    "priceEur": 49,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Google%20Nest%20Mini",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-fujifilm-instax-mini-12",
+    "title": "Fujifilm Instax Mini 12",
+    "brand": "Fujifilm",
+    "category": "tech-gadgets",
+    "tags": [
+      "photography",
+      "instant camera",
+      "trendy",
+      "memories"
+    ],
+    "priceEur": 89,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Fujifilm%20Instax%20Mini%2012",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-fujifilm-instax-mini-film-2x10",
+    "title": "Fujifilm Instax Mini Film 2x10",
+    "brand": "Fujifilm",
+    "category": "tech-gadgets",
+    "tags": [
+      "photography",
+      "instant camera",
+      "film"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Fujifilm%20Instax%20Mini%20Film%202x10",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-polaroid-now-gen-2-camera",
+    "title": "Polaroid Now+ Gen 2 Camera",
+    "brand": "Polaroid",
+    "category": "tech-gadgets",
+    "tags": [
+      "photography",
+      "instant camera",
+      "retro"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Polaroid%20Now%2B%20Gen%202%20Camera",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-dji-osmo-mobile-6-smartphone-gimbal",
+    "title": "DJI Osmo Mobile 6 Smartphone Gimbal",
+    "brand": "DJI",
+    "category": "tech-gadgets",
+    "tags": [
+      "video",
+      "creator",
+      "phone",
+      "travel"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=DJI%20Osmo%20Mobile%206%20Smartphone%20Gimbal",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-dji-mini-4k-drone",
+    "title": "DJI Mini 4K Drone",
+    "brand": "DJI",
+    "category": "tech-gadgets",
+    "tags": [
+      "drone",
+      "video",
+      "gadget",
+      "travel"
+    ],
+    "priceEur": 299,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=DJI%20Mini%204K%20Drone",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-gopro-hero12-black",
+    "title": "GoPro HERO12 Black",
+    "brand": "GoPro",
+    "category": "tech-gadgets",
+    "tags": [
+      "action camera",
+      "video",
+      "sport",
+      "travel"
+    ],
+    "priceEur": 399,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=GoPro%20HERO12%20Black",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-tile-mate-bluetooth-tracker",
+    "title": "Tile Mate Bluetooth Tracker",
+    "brand": "Tile",
+    "category": "tech-gadgets",
+    "tags": [
+      "tracker",
+      "keys",
+      "practical"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Tile%20Mate%20Bluetooth%20Tracker",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-raspberry-pi-5-starter-kit",
+    "title": "Raspberry Pi 5 Starter Kit",
+    "brand": "Raspberry Pi",
+    "category": "tech-gadgets",
+    "tags": [
+      "programming",
+      "diy",
+      "electronics",
+      "learning"
+    ],
+    "priceEur": 120,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Raspberry%20Pi%205%20Starter%20Kit",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-nintendo-switch-oled",
+    "title": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "console",
+      "family",
+      "portable"
+    ],
+    "priceEur": 329,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Nintendo%20Switch%20OLED",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-mario-kart-8-deluxe-switch",
+    "title": "Mario Kart 8 Deluxe (Switch)",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "family",
+      "party",
+      "racing"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Mario%20Kart%208%20Deluxe%20(Switch)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-the-legend-of-zelda-tears-of-the-kingdom-switch",
+    "title": "The Legend of Zelda: Tears of the Kingdom (Switch)",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "adventure",
+      "zelda"
+    ],
+    "priceEur": 55,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=The%20Legend%20of%20Zelda%3A%20Tears%20of%20the%20Kingdom%20(Switch)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-xbox-wireless-controller",
+    "title": "Xbox Wireless Controller",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "controller",
+      "pc gaming"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Xbox%20Wireless%20Controller",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-playstation-dualsense-controller",
+    "title": "PlayStation DualSense Controller",
+    "brand": "Sony",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "controller",
+      "playstation"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=PlayStation%20DualSense%20Controller",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-playstation-store-gift-card-50-eur",
+    "title": "PlayStation Store Gift Card 50 EUR",
+    "brand": "Sony",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "playstation",
+      "gift card"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=PlayStation%20Store%20Gift%20Card%2050%20EUR",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-steam-gift-card-50-eur",
+    "title": "Steam Gift Card 50 EUR",
+    "brand": "Valve",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "pc gaming",
+      "gift card"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Steam%20Gift%20Card%2050%20EUR",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-steelseries-arctis-nova-1-gaming-headset",
+    "title": "SteelSeries Arctis Nova 1 Gaming Headset",
+    "brand": "SteelSeries",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "headset",
+      "pc gaming"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=SteelSeries%20Arctis%20Nova%201%20Gaming%20Headset",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-meta-quest-3s-128-gb",
+    "title": "Meta Quest 3S 128 GB",
+    "brand": "Meta",
+    "category": "gaming",
+    "tags": [
+      "vr",
+      "gaming",
+      "gadget",
+      "fitness"
+    ],
+    "priceEur": 329,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Meta%20Quest%203S%20128%20GB",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-catan-board-game-dutch-edition",
+    "title": "Catan Board Game (Dutch edition)",
+    "brand": "999 Games",
+    "category": "games-puzzles",
+    "tags": [
+      "board games",
+      "strategy",
+      "family",
+      "classic"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Catan%20Board%20Game%20(Dutch%20edition)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ticket-to-ride-europe",
+    "title": "Ticket to Ride Europe",
+    "brand": "Days of Wonder",
+    "category": "games-puzzles",
+    "tags": [
+      "board games",
+      "family",
+      "travel",
+      "strategy"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Ticket%20to%20Ride%20Europe",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-wingspan-board-game",
+    "title": "Wingspan Board Game",
+    "brand": "Stonemaier Games",
+    "category": "games-puzzles",
+    "tags": [
+      "board games",
+      "birds",
+      "nature",
+      "strategy"
+    ],
+    "priceEur": 55,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Wingspan%20Board%20Game",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-codenames",
+    "title": "Codenames",
+    "brand": "Czech Games Edition",
+    "category": "games-puzzles",
+    "tags": [
+      "party games",
+      "friends",
+      "word games"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Codenames",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-exploding-kittens",
+    "title": "Exploding Kittens",
+    "brand": "Exploding Kittens",
+    "category": "games-puzzles",
+    "tags": [
+      "card games",
+      "party games",
+      "funny"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Exploding%20Kittens",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-azul-board-game",
+    "title": "Azul Board Game",
+    "brand": "Plan B Games",
+    "category": "games-puzzles",
+    "tags": [
+      "board games",
+      "family",
+      "design",
+      "strategy"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Azul%20Board%20Game",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-unlock-escape-adventures",
+    "title": "Unlock! Escape Adventures",
+    "brand": "Space Cowboys",
+    "category": "games-puzzles",
+    "tags": [
+      "escape room",
+      "puzzle",
+      "party games"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Unlock!%20Escape%20Adventures",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ravensburger-1000-piece-jigsaw-puzzle-krypt-silver",
+    "title": "Ravensburger 1000 Piece Jigsaw Puzzle Krypt Silver",
+    "brand": "Ravensburger",
+    "category": "games-puzzles",
+    "tags": [
+      "puzzle",
+      "jigsaw",
+      "challenge"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Ravensburger%201000%20Piece%20Jigsaw%20Puzzle%20Krypt%20Silver",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-rubik-s-cube-3x3",
+    "title": "Rubik's Cube 3x3",
+    "brand": "Rubik's",
+    "category": "games-puzzles",
+    "tags": [
+      "puzzle",
+      "classic",
+      "retro",
+      "small"
+    ],
+    "priceEur": 12,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Rubik's%20Cube%203x3",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lego-icons-bonsai-tree-10281",
+    "title": "LEGO Icons Bonsai Tree 10281",
+    "brand": "LEGO",
+    "category": "creative-hobby",
+    "tags": [
+      "lego",
+      "plants",
+      "adult hobby",
+      "decor"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=LEGO%20Icons%20Bonsai%20Tree%2010281",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lego-icons-orchid-10311",
+    "title": "LEGO Icons Orchid 10311",
+    "brand": "LEGO",
+    "category": "creative-hobby",
+    "tags": [
+      "lego",
+      "plants",
+      "flowers",
+      "decor"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=LEGO%20Icons%20Orchid%2010311",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lego-technic-ford-mustang-shelby-gt500-42138",
+    "title": "LEGO Technic Ford Mustang Shelby GT500 42138",
+    "brand": "LEGO",
+    "category": "creative-hobby",
+    "tags": [
+      "lego",
+      "cars",
+      "technic"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=LEGO%20Technic%20Ford%20Mustang%20Shelby%20GT500%2042138",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lego-architecture-paris-21044",
+    "title": "LEGO Architecture Paris 21044",
+    "brand": "LEGO",
+    "category": "creative-hobby",
+    "tags": [
+      "lego",
+      "travel",
+      "architecture",
+      "paris"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=LEGO%20Architecture%20Paris%2021044",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lego-star-wars-millennium-falcon-75257",
+    "title": "LEGO Star Wars Millennium Falcon 75257",
+    "brand": "LEGO",
+    "category": "creative-hobby",
+    "tags": [
+      "lego",
+      "star wars",
+      "fan"
+    ],
+    "priceEur": 170,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=LEGO%20Star%20Wars%20Millennium%20Falcon%2075257",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-atomic-habits-by-james-clear",
+    "title": "Atomic Habits by James Clear",
+    "brand": "Random House",
+    "category": "books",
+    "tags": [
+      "self improvement",
+      "productivity",
+      "habits"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Atomic%20Habits%20by%20James%20Clear",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-sapiens-by-yuval-noah-harari",
+    "title": "Sapiens by Yuval Noah Harari",
+    "brand": "Vintage",
+    "category": "books",
+    "tags": [
+      "history",
+      "science",
+      "big ideas"
+    ],
+    "priceEur": 15,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Sapiens%20by%20Yuval%20Noah%20Harari",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-the-body-keeps-the-score-by-bessel-van-der-kolk",
+    "title": "The Body Keeps the Score by Bessel van der Kolk",
+    "brand": "Penguin",
+    "category": "books",
+    "tags": [
+      "psychology",
+      "wellbeing",
+      "health"
+    ],
+    "priceEur": 18,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=The%20Body%20Keeps%20the%20Score%20by%20Bessel%20van%20der%20Kolk",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-project-hail-mary-by-andy-weir",
+    "title": "Project Hail Mary by Andy Weir",
+    "brand": "Del Rey",
+    "category": "books",
+    "tags": [
+      "science fiction",
+      "space",
+      "novel"
+    ],
+    "priceEur": 15,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Project%20Hail%20Mary%20by%20Andy%20Weir",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-the-hobbit-illustrated-edition",
+    "title": "The Hobbit (Illustrated Edition)",
+    "brand": "HarperCollins",
+    "category": "books",
+    "tags": [
+      "fantasy",
+      "tolkien",
+      "classic",
+      "illustrated"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=The%20Hobbit%20(Illustrated%20Edition)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-the-midnight-library-by-matt-haig",
+    "title": "The Midnight Library by Matt Haig",
+    "brand": "Canongate",
+    "category": "books",
+    "tags": [
+      "novel",
+      "fiction",
+      "feel good"
+    ],
+    "priceEur": 13,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=The%20Midnight%20Library%20by%20Matt%20Haig",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-het-achterhuis-by-anne-frank",
+    "title": "Het Achterhuis by Anne Frank",
+    "brand": "Prometheus",
+    "category": "books",
+    "tags": [
+      "history",
+      "classic",
+      "dutch"
+    ],
+    "priceEur": 15,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Het%20Achterhuis%20by%20Anne%20Frank",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-moleskine-classic-notebook-large-hardcover",
+    "title": "Moleskine Classic Notebook Large Hardcover",
+    "brand": "Moleskine",
+    "category": "accessories",
+    "tags": [
+      "notebook",
+      "writing",
+      "journal",
+      "office"
+    ],
+    "priceEur": 23,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Moleskine%20Classic%20Notebook%20Large%20Hardcover",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-leuchtturm1917-bullet-journal-a5-dotted",
+    "title": "Leuchtturm1917 Bullet Journal A5 Dotted",
+    "brand": "Leuchtturm1917",
+    "category": "creative-hobby",
+    "tags": [
+      "journal",
+      "writing",
+      "planning",
+      "bullet journal"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Leuchtturm1917%20Bullet%20Journal%20A5%20Dotted",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lamy-safari-fountain-pen",
+    "title": "LAMY safari Fountain Pen",
+    "brand": "LAMY",
+    "category": "accessories",
+    "tags": [
+      "writing",
+      "pen",
+      "classic",
+      "student"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=LAMY%20safari%20Fountain%20Pen",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-q-a-a-day-5-year-journal",
+    "title": "Q&A a Day: 5-Year Journal",
+    "brand": "Potter Style",
+    "category": "books",
+    "tags": [
+      "journal",
+      "memories",
+      "sentimental",
+      "reflection"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Q%26A%20a%20Day%3A%205-Year%20Journal",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-winsor-newton-cotman-watercolour-sketchers-pocket-box",
+    "title": "Winsor & Newton Cotman Watercolour Sketchers Pocket Box",
+    "brand": "Winsor & Newton",
+    "category": "creative-hobby",
+    "tags": [
+      "painting",
+      "watercolor",
+      "art",
+      "beginner"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Winsor%20%26%20Newton%20Cotman%20Watercolour%20Sketchers%20Pocket%20Box",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-posca-paint-markers-set-of-16",
+    "title": "Posca Paint Markers Set of 16",
+    "brand": "Posca",
+    "category": "creative-hobby",
+    "tags": [
+      "drawing",
+      "art",
+      "markers",
+      "creative"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Posca%20Paint%20Markers%20Set%20of%2016",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-cricut-joy-cutting-machine",
+    "title": "Cricut Joy Cutting Machine",
+    "brand": "Cricut",
+    "category": "creative-hobby",
+    "tags": [
+      "crafts",
+      "diy",
+      "cutting machine",
+      "creative"
+    ],
+    "priceEur": 179,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Cricut%20Joy%20Cutting%20Machine",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-singer-starlet-6680-sewing-machine",
+    "title": "Singer Starlet 6680 Sewing Machine",
+    "brand": "Singer",
+    "category": "creative-hobby",
+    "tags": [
+      "sewing",
+      "crafts",
+      "diy"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Singer%20Starlet%206680%20Sewing%20Machine",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bosch-easydrill-12-cordless-drill",
+    "title": "Bosch EasyDrill 12 Cordless Drill",
+    "brand": "Bosch",
+    "category": "creative-hobby",
+    "tags": [
+      "diy",
+      "tools",
+      "home improvement",
+      "practical"
+    ],
+    "priceEur": 79,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Bosch%20EasyDrill%2012%20Cordless%20Drill",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bosch-ixo-7-cordless-screwdriver",
+    "title": "Bosch IXO 7 Cordless Screwdriver",
+    "brand": "Bosch",
+    "category": "creative-hobby",
+    "tags": [
+      "diy",
+      "tools",
+      "practical",
+      "small"
+    ],
+    "priceEur": 55,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Bosch%20IXO%207%20Cordless%20Screwdriver",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-dremel-3000-multitool-kit",
+    "title": "Dremel 3000 Multitool Kit",
+    "brand": "Dremel",
+    "category": "creative-hobby",
+    "tags": [
+      "diy",
+      "tools",
+      "woodworking",
+      "crafts"
+    ],
+    "priceEur": 89,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Dremel%203000%20Multitool%20Kit",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ember-mug-2-temperature-control-295-ml",
+    "title": "Ember Mug 2 Temperature Control 295 ml",
+    "brand": "Ember",
+    "category": "coffee-tea",
+    "tags": [
+      "coffee",
+      "tea",
+      "gadget",
+      "desk",
+      "premium"
+    ],
+    "priceEur": 129,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Ember%20Mug%202%20Temperature%20Control%20295%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ka-hler-hammersh-i-vase-20-cm",
+    "title": "Kähler Hammershøi Vase 20 cm",
+    "brand": "Kähler",
+    "category": "home-decor",
+    "tags": [
+      "vase",
+      "danish",
+      "design",
+      "minimalist"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=K%C3%A4hler%20Hammersh%C3%B8i%20Vase%2020%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-yankee-candle-large-jar-clean-cotton",
+    "title": "Yankee Candle Large Jar Clean Cotton",
+    "brand": "Yankee Candle",
+    "category": "home-decor",
+    "tags": [
+      "candle",
+      "cozy",
+      "scent"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Yankee%20Candle%20Large%20Jar%20Clean%20Cotton",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-rituals-the-ritual-of-sakura-home-gift-set",
+    "title": "Rituals The Ritual of Sakura Home Gift Set",
+    "brand": "Rituals",
+    "category": "wellness-selfcare",
+    "tags": [
+      "self care",
+      "scent",
+      "gift box",
+      "relax"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Rituals%20The%20Ritual%20of%20Sakura%20Home%20Gift%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-muji-aroma-diffuser-large",
+    "title": "Muji Aroma Diffuser Large",
+    "brand": "Muji",
+    "category": "wellness-selfcare",
+    "tags": [
+      "aromatherapy",
+      "relax",
+      "home",
+      "minimalist"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Muji%20Aroma%20Diffuser%20Large",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lumie-bodyclock-shine-300-wake-up-light",
+    "title": "Lumie Bodyclock Shine 300 Wake-up Light",
+    "brand": "Lumie",
+    "category": "wellness-selfcare",
+    "tags": [
+      "sleep",
+      "morning",
+      "light",
+      "wellbeing"
+    ],
+    "priceEur": 170,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Lumie%20Bodyclock%20Shine%20300%20Wake-up%20Light",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-philips-wake-up-light-hf3520-01",
+    "title": "Philips Wake-up Light HF3520/01",
+    "brand": "Philips",
+    "category": "wellness-selfcare",
+    "tags": [
+      "sleep",
+      "morning",
+      "light"
+    ],
+    "priceEur": 129,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Philips%20Wake-up%20Light%20HF3520%2F01",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-gravity-weighted-blanket-7-kg",
+    "title": "Gravity Weighted Blanket 7 kg",
+    "brand": "Gravity",
+    "category": "wellness-selfcare",
+    "tags": [
+      "sleep",
+      "anxiety",
+      "relax",
+      "cozy"
+    ],
+    "priceEur": 150,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Gravity%20Weighted%20Blanket%207%20kg",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-manta-sleep-mask",
+    "title": "Manta Sleep Mask",
+    "brand": "Manta",
+    "category": "wellness-selfcare",
+    "tags": [
+      "sleep",
+      "travel",
+      "small"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Manta%20Sleep%20Mask",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-rituals-the-ritual-of-jing-gift-set",
+    "title": "Rituals The Ritual of Jing Gift Set",
+    "brand": "Rituals",
+    "category": "wellness-selfcare",
+    "tags": [
+      "self care",
+      "relax",
+      "bath",
+      "gift box"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Rituals%20The%20Ritual%20of%20Jing%20Gift%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-the-five-minute-journal",
+    "title": "The Five Minute Journal",
+    "brand": "Intelligent Change",
+    "category": "wellness-selfcare",
+    "tags": [
+      "journal",
+      "gratitude",
+      "mindfulness",
+      "morning"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=The%20Five%20Minute%20Journal",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-therabody-smartgoggles",
+    "title": "Therabody SmartGoggles",
+    "brand": "Therabody",
+    "category": "wellness-selfcare",
+    "tags": [
+      "relax",
+      "headache",
+      "massage",
+      "gadget"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Therabody%20SmartGoggles",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-braun-series-9-pro-shaver",
+    "title": "Braun Series 9 Pro+ Shaver",
+    "brand": "Braun",
+    "category": "grooming-beauty",
+    "tags": [
+      "shaving",
+      "grooming",
+      "men",
+      "premium"
+    ],
+    "priceEur": 299,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Braun%20Series%209%20Pro%2B%20Shaver",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-philips-oneblade-pro-360",
+    "title": "Philips OneBlade Pro 360",
+    "brand": "Philips",
+    "category": "grooming-beauty",
+    "tags": [
+      "shaving",
+      "beard",
+      "grooming",
+      "practical"
+    ],
+    "priceEur": 69,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Philips%20OneBlade%20Pro%20360",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-dyson-supersonic-hair-dryer",
+    "title": "Dyson Supersonic Hair Dryer",
+    "brand": "Dyson",
+    "category": "grooming-beauty",
+    "tags": [
+      "hair",
+      "premium",
+      "beauty",
+      "gadget"
+    ],
+    "priceEur": 449,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Dyson%20Supersonic%20Hair%20Dryer",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-dyson-airwrap-multi-styler-complete-long",
+    "title": "Dyson Airwrap Multi-styler Complete Long",
+    "brand": "Dyson",
+    "category": "grooming-beauty",
+    "tags": [
+      "hair",
+      "styling",
+      "premium",
+      "beauty"
+    ],
+    "priceEur": 549,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Dyson%20Airwrap%20Multi-styler%20Complete%20Long",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-oral-b-io-series-7-electric-toothbrush",
+    "title": "Oral-B iO Series 7 Electric Toothbrush",
+    "brand": "Oral-B",
+    "category": "grooming-beauty",
+    "tags": [
+      "dental",
+      "health",
+      "practical",
+      "gadget"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Oral-B%20iO%20Series%207%20Electric%20Toothbrush",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-foreo-luna-4-facial-cleansing-device",
+    "title": "Foreo Luna 4 Facial Cleansing Device",
+    "brand": "Foreo",
+    "category": "grooming-beauty",
+    "tags": [
+      "skincare",
+      "beauty",
+      "gadget"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Foreo%20Luna%204%20Facial%20Cleansing%20Device",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-the-ordinary-the-daily-set",
+    "title": "The Ordinary The Daily Set",
+    "brand": "The Ordinary",
+    "category": "grooming-beauty",
+    "tags": [
+      "skincare",
+      "beauty",
+      "routine"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=The%20Ordinary%20The%20Daily%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-baxter-of-california-grooming-gift-set",
+    "title": "Baxter of California Grooming Gift Set",
+    "brand": "Baxter of California",
+    "category": "grooming-beauty",
+    "tags": [
+      "grooming",
+      "beard",
+      "men",
+      "gift box"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Baxter%20of%20California%20Grooming%20Gift%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kiehl-s-ultra-facial-cream-50-ml",
+    "title": "Kiehl's Ultra Facial Cream 50 ml",
+    "brand": "Kiehl's",
+    "category": "grooming-beauty",
+    "tags": [
+      "skincare",
+      "moisturizer",
+      "classic"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Kiehl's%20Ultra%20Facial%20Cream%2050%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bellroy-hide-seek-wallet",
+    "title": "Bellroy Hide & Seek Wallet",
+    "brand": "Bellroy",
+    "category": "accessories",
+    "tags": [
+      "wallet",
+      "leather",
+      "slim",
+      "design"
+    ],
+    "priceEur": 89,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Bellroy%20Hide%20%26%20Seek%20Wallet",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-secrid-miniwallet-original",
+    "title": "Secrid Miniwallet Original",
+    "brand": "Secrid",
+    "category": "accessories",
+    "tags": [
+      "wallet",
+      "dutch",
+      "slim",
+      "practical"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Secrid%20Miniwallet%20Original",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-fossil-grant-chronograph-watch",
+    "title": "Fossil Grant Chronograph Watch",
+    "brand": "Fossil",
+    "category": "accessories",
+    "tags": [
+      "watch",
+      "classic",
+      "leather"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Fossil%20Grant%20Chronograph%20Watch",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-casio-vintage-a168wegg-1aef-watch",
+    "title": "Casio Vintage A168WEGG-1AEF Watch",
+    "brand": "Casio",
+    "category": "accessories",
+    "tags": [
+      "watch",
+      "retro",
+      "trendy",
+      "gold"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Casio%20Vintage%20A168WEGG-1AEF%20Watch",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ray-ban-wayfarer-classic-sunglasses",
+    "title": "Ray-Ban Wayfarer Classic Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "accessories",
+    "tags": [
+      "sunglasses",
+      "classic",
+      "summer"
+    ],
+    "priceEur": 150,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Ray-Ban%20Wayfarer%20Classic%20Sunglasses",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-rains-backpack-mini-waterproof",
+    "title": "Rains Backpack Mini Waterproof",
+    "brand": "Rains",
+    "category": "accessories",
+    "tags": [
+      "backpack",
+      "rain",
+      "commute",
+      "danish design"
+    ],
+    "priceEur": 75,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Rains%20Backpack%20Mini%20Waterproof",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-fja-llra-ven-ka-nken-backpack",
+    "title": "Fjällräven Kånken Backpack",
+    "brand": "Fjällräven",
+    "category": "accessories",
+    "tags": [
+      "backpack",
+      "classic",
+      "student",
+      "commute"
+    ],
+    "priceEur": 95,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Fj%C3%A4llr%C3%A4ven%20K%C3%A5nken%20Backpack",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-herschel-little-america-backpack",
+    "title": "Herschel Little America Backpack",
+    "brand": "Herschel",
+    "category": "accessories",
+    "tags": [
+      "backpack",
+      "travel",
+      "laptop"
+    ],
+    "priceEur": 110,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Herschel%20Little%20America%20Backpack",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-barts-fleece-beanie",
+    "title": "Barts Fleece Beanie",
+    "brand": "Barts",
+    "category": "accessories",
+    "tags": [
+      "winter",
+      "beanie",
+      "cozy"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Barts%20Fleece%20Beanie",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": true
+  },
+  {
+    "id": "catalog-patagonia-better-sweater-fleece-jacket",
+    "title": "Patagonia Better Sweater Fleece Jacket",
+    "brand": "Patagonia",
+    "category": "accessories",
+    "tags": [
+      "outdoor",
+      "fleece",
+      "sustainable",
+      "cozy"
+    ],
+    "priceEur": 150,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Patagonia%20Better%20Sweater%20Fleece%20Jacket",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": true
+  },
+  {
+    "id": "catalog-happy-socks-gift-box-4-pack",
+    "title": "Happy Socks Gift Box 4-pack",
+    "brand": "Happy Socks",
+    "category": "accessories",
+    "tags": [
+      "socks",
+      "colorful",
+      "fun"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Happy%20Socks%20Gift%20Box%204-pack",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": true
+  },
+  {
+    "id": "catalog-tommy-hilfiger-cashmere-blend-scarf",
+    "title": "Tommy Hilfiger Cashmere-blend Scarf",
+    "brand": "Tommy Hilfiger",
+    "category": "accessories",
+    "tags": [
+      "winter",
+      "scarf",
+      "classic"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Tommy%20Hilfiger%20Cashmere-blend%20Scarf",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": true
+  },
+  {
+    "id": "catalog-snow-peak-titanium-single-wall-mug-450",
+    "title": "Snow Peak Titanium Single Wall Mug 450",
+    "brand": "Snow Peak",
+    "category": "outdoor-travel",
+    "tags": [
+      "camping",
+      "coffee",
+      "lightweight",
+      "premium"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Snow%20Peak%20Titanium%20Single%20Wall%20Mug%20450",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-click-grow-smart-garden-3",
+    "title": "Click & Grow Smart Garden 3",
+    "brand": "Click & Grow",
+    "category": "garden-plants",
+    "tags": [
+      "plants",
+      "herbs",
+      "indoor garden",
+      "gadget"
+    ],
+    "priceEur": 99,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Click%20%26%20Grow%20Smart%20Garden%203",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-aerogarden-harvest-indoor-garden",
+    "title": "AeroGarden Harvest Indoor Garden",
+    "brand": "AeroGarden",
+    "category": "garden-plants",
+    "tags": [
+      "plants",
+      "herbs",
+      "indoor garden",
+      "cooking"
+    ],
+    "priceEur": 120,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=AeroGarden%20Harvest%20Indoor%20Garden",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-gardena-comfort-pruning-shears",
+    "title": "Gardena Comfort Pruning Shears",
+    "brand": "Gardena",
+    "category": "garden-plants",
+    "tags": [
+      "gardening",
+      "tools",
+      "practical"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Gardena%20Comfort%20Pruning%20Shears",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-esschert-design-bird-house",
+    "title": "Esschert Design Bird House",
+    "brand": "Esschert Design",
+    "category": "garden-plants",
+    "tags": [
+      "birds",
+      "garden",
+      "nature",
+      "dutch"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Esschert%20Design%20Bird%20House",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-esschert-design-bee-hotel",
+    "title": "Esschert Design Bee Hotel",
+    "brand": "Esschert Design",
+    "category": "garden-plants",
+    "tags": [
+      "bees",
+      "garden",
+      "nature",
+      "eco"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Esschert%20Design%20Bee%20Hotel",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bongo-wellness-experience-box",
+    "title": "Bongo Wellness Experience Box",
+    "brand": "Bongo",
+    "category": "experiences",
+    "tags": [
+      "spa",
+      "wellness",
+      "experience",
+      "relax"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bongo%20Wellness%20Experience%20Box",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bongo-dinner-for-two-experience-box",
+    "title": "Bongo Dinner for Two Experience Box",
+    "brand": "Bongo",
+    "category": "experiences",
+    "tags": [
+      "dinner",
+      "restaurant",
+      "couple",
+      "experience"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bongo%20Dinner%20for%20Two%20Experience%20Box",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bongo-weekend-away-experience-box",
+    "title": "Bongo Weekend Away Experience Box",
+    "brand": "Bongo",
+    "category": "experiences",
+    "tags": [
+      "weekend away",
+      "travel",
+      "couple",
+      "experience"
+    ],
+    "priceEur": 200,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bongo%20Weekend%20Away%20Experience%20Box",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-vvv-cadeaukaart-50-eur",
+    "title": "VVV Cadeaukaart 50 EUR",
+    "brand": "VVV",
+    "category": "experiences",
+    "tags": [
+      "gift card",
+      "flexible",
+      "dutch"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=VVV%20Cadeaukaart%2050%20EUR",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bol-com-cadeaukaart-25-eur",
+    "title": "Bol.com Cadeaukaart 25 EUR",
+    "brand": "bol.com",
+    "category": "experiences",
+    "tags": [
+      "gift card",
+      "flexible"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Bol.com%20Cadeaukaart%2025%20EUR",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lego-duplo-my-first-number-train-10954",
+    "title": "LEGO DUPLO My First Number Train 10954",
+    "brand": "LEGO",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "toddler",
+      "learning",
+      "lego"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=LEGO%20DUPLO%20My%20First%20Number%20Train%2010954",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-playmobil-city-life-zoo-70341",
+    "title": "Playmobil City Life Zoo 70341",
+    "brand": "Playmobil",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "animals",
+      "role play"
+    ],
+    "priceEur": 80,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Playmobil%20City%20Life%20Zoo%2070341",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-hape-wooden-kitchen-playset",
+    "title": "Hape Wooden Kitchen Playset",
+    "brand": "Hape",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "role play",
+      "cooking",
+      "wooden"
+    ],
+    "priceEur": 90,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Hape%20Wooden%20Kitchen%20Playset",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-tonies-toniebox-starter-set",
+    "title": "Tonies Toniebox Starter Set",
+    "brand": "Tonies",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "audio",
+      "stories",
+      "music"
+    ],
+    "priceEur": 90,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Tonies%20Toniebox%20Starter%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-micro-mini-deluxe-scooter",
+    "title": "Micro Mini Deluxe Scooter",
+    "brand": "Micro",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "scooter",
+      "outdoor"
+    ],
+    "priceEur": 100,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Micro%20Mini%20Deluxe%20Scooter",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-vtech-kidizoom-smartwatch-max",
+    "title": "VTech KidiZoom Smartwatch MAX",
+    "brand": "VTech",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "watch",
+      "camera",
+      "gadget"
+    ],
+    "priceEur": 70,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=VTech%20KidiZoom%20Smartwatch%20MAX",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-magna-tiles-clear-colors-32-piece",
+    "title": "Magna-Tiles Clear Colors 32-piece",
+    "brand": "Magna-Tiles",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "building",
+      "magnetic",
+      "stem"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Magna-Tiles%20Clear%20Colors%2032-piece",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ravensburger-gravitrax-starter-set",
+    "title": "Ravensburger GraviTrax Starter Set",
+    "brand": "Ravensburger",
+    "category": "kids-toys",
+    "tags": [
+      "kids",
+      "stem",
+      "marble run",
+      "building"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Ravensburger%20GraviTrax%20Starter%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-jellycat-bashful-bunny-medium",
+    "title": "Jellycat Bashful Bunny Medium",
+    "brand": "Jellycat",
+    "category": "kids-toys",
+    "tags": [
+      "plush",
+      "baby",
+      "cuddly",
+      "sentimental"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Jellycat%20Bashful%20Bunny%20Medium",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-smartgames-iq-puzzler-pro",
+    "title": "SmartGames IQ Puzzler Pro",
+    "brand": "SmartGames",
+    "category": "games-puzzles",
+    "tags": [
+      "puzzle",
+      "logic",
+      "travel",
+      "kids"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=SmartGames%20IQ%20Puzzler%20Pro",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-snoopy-hug-mug-peanuts",
+    "title": "Snoopy Hug Mug Peanuts",
+    "brand": "Peanuts",
+    "category": "home-decor",
+    "tags": [
+      "mug",
+      "funny",
+      "small"
+    ],
+    "priceEur": 12,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Snoopy%20Hug%20Mug%20Peanuts",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-moon-lamp-3d-printed-15-cm",
+    "title": "Moon Lamp 3D Printed 15 cm",
+    "brand": "Mydethun",
+    "category": "home-decor",
+    "tags": [
+      "lamp",
+      "space",
+      "night light",
+      "trendy"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Moon%20Lamp%203D%20Printed%2015%20cm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-philips-hue-go-portable-light",
+    "title": "Philips Hue Go Portable Light",
+    "brand": "Philips Hue",
+    "category": "home-decor",
+    "tags": [
+      "lamp",
+      "smart home",
+      "cozy",
+      "portable"
+    ],
+    "priceEur": 89,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Philips%20Hue%20Go%20Portable%20Light",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-fatboy-original-bean-bag",
+    "title": "Fatboy Original Bean Bag",
+    "brand": "Fatboy",
+    "category": "home-decor",
+    "tags": [
+      "bean bag",
+      "dutch design",
+      "lounge",
+      "cozy"
+    ],
+    "priceEur": 199,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Fatboy%20Original%20Bean%20Bag",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kikkerland-scratch-off-world-map",
+    "title": "Kikkerland Scratch-off World Map",
+    "brand": "Kikkerland",
+    "category": "home-decor",
+    "tags": [
+      "travel",
+      "map",
+      "decor"
+    ],
+    "priceEur": 20,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Kikkerland%20Scratch-off%20World%20Map",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-digital-photo-frame-aura-carver",
+    "title": "Digital Photo Frame Aura Carver",
+    "brand": "Aura",
+    "category": "home-decor",
+    "tags": [
+      "photos",
+      "family",
+      "memories",
+      "sentimental"
+    ],
+    "priceEur": 179,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=Digital%20Photo%20Frame%20Aura%20Carver",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-nixplay-10-1-inch-wifi-digital-photo-frame",
+    "title": "Nixplay 10.1 inch WiFi Digital Photo Frame",
+    "brand": "Nixplay",
+    "category": "home-decor",
+    "tags": [
+      "photos",
+      "family",
+      "grandparents",
+      "sentimental"
+    ],
+    "priceEur": 140,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Nixplay%2010.1%20inch%20WiFi%20Digital%20Photo%20Frame",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-dyson-v12-detect-slim-vacuum",
+    "title": "Dyson V12 Detect Slim Vacuum",
+    "brand": "Dyson",
+    "category": "home-decor",
+    "tags": [
+      "cleaning",
+      "practical",
+      "premium",
+      "gadget"
+    ],
+    "priceEur": 549,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Dyson%20V12%20Detect%20Slim%20Vacuum",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-irobot-roomba-combo-i5-robot-vacuum",
+    "title": "iRobot Roomba Combo i5 Robot Vacuum",
+    "brand": "iRobot",
+    "category": "home-decor",
+    "tags": [
+      "cleaning",
+      "robot",
+      "practical",
+      "gadget"
+    ],
+    "priceEur": 299,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=iRobot%20Roomba%20Combo%20i5%20Robot%20Vacuum",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-tado-smart-thermostat-starter-kit-v3",
+    "title": "Tado Smart Thermostat Starter Kit V3+",
+    "brand": "tado°",
+    "category": "tech-gadgets",
+    "tags": [
+      "smart home",
+      "energy",
+      "practical"
+    ],
+    "priceEur": 179,
+    "priceIsApproximate": true,
+    "store": "Coolblue",
+    "provider": "catalog",
+    "url": "https://www.coolblue.nl/zoeken?query=Tado%20Smart%20Thermostat%20Starter%20Kit%20V3%2B",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-ancestrydna-genetic-test-kit",
+    "title": "AncestryDNA Genetic Test Kit",
+    "brand": "AncestryDNA",
+    "category": "experiences",
+    "tags": [
+      "dna",
+      "family history",
+      "curious"
+    ],
+    "priceEur": 79,
+    "priceIsApproximate": true,
+    "store": "Amazon.nl",
+    "provider": "catalog",
+    "url": "https://www.amazon.nl/s?k=AncestryDNA%20Genetic%20Test%20Kit",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-celestron-powerseeker-70eq-telescope",
+    "title": "Celestron PowerSeeker 70EQ Telescope",
+    "brand": "Celestron",
+    "category": "creative-hobby",
+    "tags": [
+      "astronomy",
+      "space",
+      "stars",
+      "science"
+    ],
+    "priceEur": 130,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=Celestron%20PowerSeeker%2070EQ%20Telescope",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-national-geographic-microscope-set",
+    "title": "National Geographic Microscope Set",
+    "brand": "National Geographic",
+    "category": "kids-toys",
+    "tags": [
+      "science",
+      "stem",
+      "kids",
+      "microscope"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "bol.com",
+    "provider": "catalog",
+    "url": "https://www.bol.com/nl/nl/s/?searchtext=National%20Geographic%20Microscope%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  }
+]
