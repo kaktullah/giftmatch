@@ -1,0 +1,64 @@
+// Anonymised logging so recommendation quality can be measured later.
+// GDPR: no recipient names or free-text personal data are required here.
+// The stored profile is the structured, anonymised version only.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+/// One recommendation run (one questionnaire submission).
+model RecommendationRequest {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+  /// Anonymised recipient profile as JSON (age range, budget, interest tags...).
+  profileJson   String
+  promptVersion String
+  /// "demo" when no API key was configured.
+  mode          String
+  conceptModel  String?
+  rerankModel   String?
+  inputTokens   Int      @default(0)
+  outputTokens  Int      @default(0)
+  costEur       Float    @default(0)
+  durationMs    Int      @default(0)
+  /// Set when the pipeline failed gracefully.
+  error         String?
+
+  items  RecommendationItem[]
+  events FeedbackEvent[]
+}
+
+/// A product that was shown to the user in a result list.
+model RecommendationItem {
+  id        String   @id @default(cuid())
+  requestId String
+  productId String
+  provider  String
+  rank      Int
+  fitScore  Float
+  reason    String
+  wildcard  Boolean  @default(false)
+
+  request RecommendationRequest @relation(fields: [requestId], references: [id], onDelete: Cascade)
+
+  @@index([requestId])
+}
+
+/// What the user did with a result: click, "more like this", "not this".
+model FeedbackEvent {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  requestId String
+  productId String
+  /// "click" | "more_like_this" | "not_this"
+  type      String
+
+  request RecommendationRequest @relation(fields: [requestId], references: [id], onDelete: Cascade)
+
+  @@index([requestId])
+}
