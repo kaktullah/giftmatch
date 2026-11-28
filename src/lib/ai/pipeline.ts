@@ -57,6 +57,7 @@ export async function aiRecommend(
     profile: profileForPrompt(profile),
     freeText: profile.freeText || "(nothing)",
     count: 24,
+    budgetMin: profile.budget.minEur,
     budgetMax: profile.budget.maxEur,
     categories: CATEGORIES.join(", "),
   });

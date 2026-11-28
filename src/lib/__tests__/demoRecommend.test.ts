@@ -76,3 +76,11 @@ describe("budget is a cap, not a target", () => {
     expect(IntakeSchema.safeParse({ ...sampleIntake, budgetMaxEur: 25000 }).success).toBe(true);
   });
 });
+
+describe("budget range", () => {
+  it("respects an optional minimum", async () => {
+    const r = await demoRecommend(buildProfile({ ...sampleIntake, budgetMinEur: 50, budgetMaxEur: 200 }), catalog, undefined, today);
+    expect(r.items.length).toBeGreaterThan(0);
+    for (const x of r.items) expect(x.product.priceEur).toBeGreaterThanOrEqual(50);
+  });
+});
