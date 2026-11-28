@@ -48,15 +48,15 @@ Wilson Pro Staff Padel Racket | Wilson | sports-fitness | padel,racket,sport | 9
 Bullpadel Vertex 03 Padel Racket | Bullpadel | sports-fitness | padel,racket,sport,premium | 220 | bol.com | n
 Head Padel Pro Balls (3-pack) | Head | sports-fitness | padel,balls,small | 8 | bol.com | n
 Babolat Padel Bag Classic | Babolat | sports-fitness | padel,bag,sport | 60 | Amazon.nl | n
-Garmin Forerunner 165 GPS Running Watch | Garmin | sports-fitness | running,watch,gps,fitness | 249 | Coolblue | n
-Polar Pacer Running Watch | Polar | sports-fitness | running,watch,fitness | 199 | Coolblue | n
-Fitbit Charge 6 | Fitbit | sports-fitness | fitness,tracker,health,sleep | 149 | Coolblue | n
+Garmin Forerunner 165 GPS Running Watch | Garmin | sports-fitness | running,watch,gps,fitness | 249 | MediaMarkt | n
+Polar Pacer Running Watch | Polar | sports-fitness | running,watch,fitness | 199 | Decathlon | n
+Fitbit Charge 6 | Fitbit | sports-fitness | fitness,tracker,health,sleep | 149 | MediaMarkt | n
 Theragun Mini 2nd Gen Massage Gun | Therabody | sports-fitness | recovery,massage,fitness,gym | 199 | Coolblue | n
-Blackroll Standard Foam Roller | Blackroll | sports-fitness | recovery,foam roller,yoga,running | 35 | bol.com | n
+Blackroll Standard Foam Roller | Blackroll | sports-fitness | recovery,foam roller,yoga,running | 35 | Decathlon | n
 Manduka PRO Yoga Mat 6 mm | Manduka | sports-fitness | yoga,mat,premium | 120 | Amazon.nl | n
 Kettlebell Cast Iron 12 kg | Tunturi | sports-fitness | gym,home workout,strength | 40 | bol.com | n
 TRX All-in-One Suspension Trainer | TRX | sports-fitness | home workout,strength,travel | 150 | Amazon.nl | n
-Speedo Fastskin Speedsocket 2 Goggles | Speedo | sports-fitness | swimming,goggles | 40 | bol.com | n
+Speedo Fastskin Speedsocket 2 Goggles | Speedo | sports-fitness | swimming,goggles | 40 | Decathlon | n
 Hydro Flask 32 oz Wide Mouth Bottle | Hydro Flask | outdoor-travel | hiking,bottle,eco,gym | 45 | bol.com | n
 Stanley Quencher H2.0 FlowState Tumbler 1.2 L | Stanley | outdoor-travel | bottle,trendy,gym,office | 45 | bol.com | n
 Black Diamond Spot 400 Headlamp | Black Diamond | outdoor-travel | hiking,camping,headlamp,running | 45 | Amazon.nl | n
@@ -76,8 +76,8 @@ Lonely Planet's Ultimate Travel List | Lonely Planet | books | travel,book,bucke
 Kindle Paperwhite (16 GB) | Amazon | tech-gadgets | reading,ebook,books,travel | 170 | Amazon.nl | n
 Kobo Clara BW e-reader | Kobo | tech-gadgets | reading,ebook,books | 140 | bol.com | n
 Apple AirPods Pro 2 | Apple | audio-music | headphones,apple,noise cancelling,commute | 249 | Coolblue | n
-Sony WH-1000XM5 Headphones | Sony | audio-music | headphones,noise cancelling,travel,music | 349 | Coolblue | n
-JBL Flip 6 Bluetooth Speaker | JBL | audio-music | speaker,music,party,outdoor | 119 | Coolblue | n
+Sony WH-1000XM5 Headphones | Sony | audio-music | headphones,noise cancelling,travel,music | 349 | MediaMarkt | n
+JBL Flip 6 Bluetooth Speaker | JBL | audio-music | speaker,music,party,outdoor | 119 | MediaMarkt | n
 Marshall Emberton II Speaker | Marshall | audio-music | speaker,music,rock,design | 149 | Coolblue | n
 Sonos Era 100 | Sonos | audio-music | speaker,music,home,premium | 279 | Coolblue | n
 Audio-Technica AT-LP60X Turntable | Audio-Technica | audio-music | vinyl,records,music,retro | 149 | Coolblue | n
@@ -100,10 +100,10 @@ Fujifilm Instax Mini Film 2x10 | Fujifilm | tech-gadgets | photography,instant c
 Polaroid Now+ Gen 2 Camera | Polaroid | tech-gadgets | photography,instant camera,retro | 149 | bol.com | n
 DJI Osmo Mobile 6 Smartphone Gimbal | DJI | tech-gadgets | video,creator,phone,travel | 149 | Coolblue | n
 DJI Mini 4K Drone | DJI | tech-gadgets | drone,video,gadget,travel | 299 | Coolblue | n
-GoPro HERO12 Black | GoPro | tech-gadgets | action camera,video,sport,travel | 399 | Coolblue | n
+GoPro HERO12 Black | GoPro | tech-gadgets | action camera,video,sport,travel | 399 | MediaMarkt | n
 Tile Mate Bluetooth Tracker | Tile | tech-gadgets | tracker,keys,practical | 25 | bol.com | n
 Raspberry Pi 5 Starter Kit | Raspberry Pi | tech-gadgets | programming,diy,electronics,learning | 120 | Amazon.nl | n
-Nintendo Switch OLED | Nintendo | gaming | gaming,console,family,portable | 329 | Coolblue | n
+Nintendo Switch OLED | Nintendo | gaming | gaming,console,family,portable | 329 | MediaMarkt | n
 Mario Kart 8 Deluxe (Switch) | Nintendo | gaming | gaming,family,party,racing | 50 | bol.com | n
 The Legend of Zelda: Tears of the Kingdom (Switch) | Nintendo | gaming | gaming,adventure,zelda | 55 | bol.com | n
 Xbox Wireless Controller | Microsoft | gaming | gaming,controller,pc gaming | 60 | Coolblue | n
@@ -111,7 +111,7 @@ PlayStation DualSense Controller | Sony | gaming | gaming,controller,playstation
 PlayStation Store Gift Card 50 EUR | Sony | gaming | gaming,playstation,gift card | 50 | bol.com | n
 Steam Gift Card 50 EUR | Valve | gaming | gaming,pc gaming,gift card | 50 | bol.com | n
 SteelSeries Arctis Nova 1 Gaming Headset | SteelSeries | gaming | gaming,headset,pc gaming | 60 | Coolblue | n
-Meta Quest 3S 128 GB | Meta | gaming | vr,gaming,gadget,fitness | 329 | Coolblue | n
+Meta Quest 3S 128 GB | Meta | gaming | vr,gaming,gadget,fitness | 329 | MediaMarkt | n
 Catan Board Game (Dutch edition) | 999 Games | games-puzzles | board games,strategy,family,classic | 40 | bol.com | n
 Ticket to Ride Europe | Days of Wonder | games-puzzles | board games,family,travel,strategy | 45 | bol.com | n
 Wingspan Board Game | Stonemaier Games | games-puzzles | board games,birds,nature,strategy | 55 | bol.com | n
@@ -157,14 +157,14 @@ Rituals The Ritual of Jing Gift Set | Rituals | wellness-selfcare | self care,re
 The Five Minute Journal | Intelligent Change | wellness-selfcare | journal,gratitude,mindfulness,morning | 30 | Amazon.nl | n
 Therabody SmartGoggles | Therabody | wellness-selfcare | relax,headache,massage,gadget | 199 | Amazon.nl | n
 Braun Series 9 Pro+ Shaver | Braun | grooming-beauty | shaving,grooming,men,premium | 299 | Coolblue | n
-Philips OneBlade Pro 360 | Philips | grooming-beauty | shaving,beard,grooming,practical | 69 | Coolblue | n
+Philips OneBlade Pro 360 | Philips | grooming-beauty | shaving,beard,grooming,practical | 69 | MediaMarkt | n
 Dyson Supersonic Hair Dryer | Dyson | grooming-beauty | hair,premium,beauty,gadget | 449 | Coolblue | n
 Dyson Airwrap Multi-styler Complete Long | Dyson | grooming-beauty | hair,styling,premium,beauty | 549 | Coolblue | n
 Oral-B iO Series 7 Electric Toothbrush | Oral-B | grooming-beauty | dental,health,practical,gadget | 149 | Coolblue | n
-Foreo Luna 4 Facial Cleansing Device | Foreo | grooming-beauty | skincare,beauty,gadget | 199 | bol.com | n
-The Ordinary The Daily Set | The Ordinary | grooming-beauty | skincare,beauty,routine | 30 | bol.com | n
+Foreo Luna 4 Facial Cleansing Device | Foreo | grooming-beauty | skincare,beauty,gadget | 199 | Douglas | n
+The Ordinary The Daily Set | The Ordinary | grooming-beauty | skincare,beauty,routine | 30 | Douglas | n
 Baxter of California Grooming Gift Set | Baxter of California | grooming-beauty | grooming,beard,men,gift box | 50 | Amazon.nl | n
-Kiehl's Ultra Facial Cream 50 ml | Kiehl's | grooming-beauty | skincare,moisturizer,classic | 35 | bol.com | n
+Kiehl's Ultra Facial Cream 50 ml | Kiehl's | grooming-beauty | skincare,moisturizer,classic | 35 | Douglas | n
 Bellroy Hide & Seek Wallet | Bellroy | accessories | wallet,leather,slim,design | 89 | Amazon.nl | n
 Secrid Miniwallet Original | Secrid | accessories | wallet,dutch,slim,practical | 70 | bol.com | n
 Fossil Grant Chronograph Watch | Fossil | accessories | watch,classic,leather | 149 | bol.com | n
@@ -211,3 +211,30 @@ Tado Smart Thermostat Starter Kit V3+ | tado° | tech-gadgets | smart home,energ
 AncestryDNA Genetic Test Kit | AncestryDNA | experiences | dna,family history,curious | 79 | Amazon.nl | n
 Celestron PowerSeeker 70EQ Telescope | Celestron | creative-hobby | astronomy,space,stars,science | 130 | bol.com | n
 National Geographic Microscope Set | National Geographic | kids-toys | science,stem,kids,microscope | 50 | bol.com | n
+
+Kuikma Padel Balls PB Speed (3-pack) | Kuikma | sports-fitness | padel,balls,small | 7 | Decathlon | n
+Kuikma Padel Bag 500 | Kuikma | sports-fitness | padel,bag,sport | 35 | Decathlon | n
+Kuikma PR 500 Padel Racket | Kuikma | sports-fitness | padel,racket,sport,beginner | 60 | Decathlon | n
+Quechua MH500 Hiking Backpack 30 L | Quechua | outdoor-travel | hiking,backpack,outdoor | 45 | Decathlon | n
+Forclaz Trek 500 Trekking Poles | Forclaz | outdoor-travel | hiking,trekking,outdoor | 35 | Decathlon | n
+Quechua 2 Seconds Easy Pop-up Tent | Quechua | outdoor-travel | camping,tent,festival | 120 | Decathlon | n
+Kalenji Running Belt | Kalenji | sports-fitness | running,practical,small | 12 | Decathlon | n
+Kiprun Hydration Vest 10 L | Kiprun | sports-fitness | running,trail,hydration,marathon | 50 | Decathlon | n
+Domyos Pilates Ring | Domyos | sports-fitness | pilates,yoga,home workout | 15 | Decathlon | n
+Kimjaly Yoga Mat 8 mm | Kimjaly | sports-fitness | yoga,mat,comfort | 25 | Decathlon | n
+Btwin Bike Repair Kit | Btwin | sports-fitness | cycling,bike,practical,diy | 15 | Decathlon | n
+Olaian Surf Poncho | Olaian | outdoor-travel | surfing,beach,swimming,cozy | 35 | Decathlon | y
+Philips Hue Play Light Bar Double Pack | Philips Hue | tech-gadgets | smart home,gaming,lights,tv | 129 | MediaMarkt | n
+Marshall Major V Headphones | Marshall | audio-music | headphones,music,rock,design | 149 | MediaMarkt | n
+Bose QuietComfort Ultra Earbuds | Bose | audio-music | headphones,noise cancelling,travel | 299 | MediaMarkt | n
+Nintendo Switch Sports | Nintendo | gaming | gaming,family,sport,party | 40 | MediaMarkt | n
+Elgato Stream Deck MK.2 | Elgato | gaming | streaming,creator,pc gaming | 149 | MediaMarkt | n
+Logitech StreamCam | Logitech | tech-gadgets | streaming,webcam,creator,work from home | 109 | MediaMarkt | n
+Sony Alpha ZV-E10 Vlog Camera | Sony | tech-gadgets | photography,video,creator,vlog | 699 | MediaMarkt | n
+Apple Watch SE (GPS, 40 mm) | Apple | tech-gadgets | watch,fitness,apple,health | 279 | MediaMarkt | n
+Douglas Collection Bath and Body Gift Set | Douglas | wellness-selfcare | self care,bath,relax,gift box | 25 | Douglas | n
+Clinique Moisture Surge 100H 50 ml | Clinique | grooming-beauty | skincare,moisturizer | 40 | Douglas | n
+Hugo Boss Bottled Eau de Toilette 100 ml | Hugo Boss | grooming-beauty | perfume,men,classic | 75 | Douglas | n
+Yves Saint Laurent Libre Eau de Parfum 50 ml | Yves Saint Laurent | grooming-beauty | perfume,women,premium | 110 | Douglas | n
+Sol de Janeiro Brazilian Bum Bum Cream 240 ml | Sol de Janeiro | grooming-beauty | skincare,body,trendy | 48 | Douglas | n
+Lush Sleepy Body Lotion | Lush | wellness-selfcare | sleep,relax,self care,scent | 30 | Douglas | n

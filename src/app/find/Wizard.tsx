@@ -6,6 +6,7 @@ import {
   AGE_RANGES,
   COUNTRIES,
   GENDERS,
+  GENERIC_GIFTS,
   INTEREST_TAGS,
   IntakeSchema,
   OCCASIONS,
@@ -31,7 +32,7 @@ const today = new Date();
 const initialDraft: Draft = {
   country: "NL",
   neededBy: isoDate(new Date(today.getTime() + 7 * 86400000)),
-  budgetMinEur: 20,
+  budgetMinEur: 0,
   budgetMaxEur: 50,
   interestTags: [],
   interestText: "",
@@ -40,7 +41,7 @@ const initialDraft: Draft = {
   allowClothing: false,
 };
 
-const BUDGET_PRESETS: [number, number][] = [[0, 20], [20, 50], [50, 100], [100, 250], [250, 1000]];
+const BUDGET_PRESETS = [20, 50, 100, 250, 500, 1000];
 
 const STEPS = ["Who", "When", "Budget", "Interests", "Style", "Avoid"] as const;
 
@@ -50,6 +51,10 @@ export function Wizard() {
   const [step, setStep] = useState(0);
   const [draft, setDraft] = useState<Draft>(initialDraft);
   const [avoidInput, setAvoidInput] = useState("");
+  /** Raw text of the budget box, so typing (or clearing) never jumps around. */
+  const [budgetText, setBudgetText] = useState(String(initialDraft.budgetMaxEur));
+  const toggleAvoid = (item: string) =>
+    set("avoid", draft.avoid.includes(item) ? draft.avoid.filter((a) => a !== item) : [...draft.avoid, item]);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<ApiResult | null>(null);
@@ -76,8 +81,8 @@ export function Wizard() {
         if (!draft.neededBy || draft.neededBy < isoDate(new Date())) return "Pick a date from today onwards.";
         return null;
       case "Budget":
-        if (draft.budgetMaxEur < 1) return "The maximum budget must be at least €1.";
-        if (draft.budgetMinEur > draft.budgetMaxEur) return "Minimum must be lower than maximum.";
+        if (!Number.isFinite(draft.budgetMaxEur) || draft.budgetMaxEur < 1) return "Enter a budget of at least €1.";
+        if (draft.budgetMaxEur > 100000) return "That's a very big budget. Please enter €100,000 or less.";
         return null;
       case "Interests":
         if (draft.interestTags.length === 0 && !draft.interestText.trim()) return "Pick at least one interest or describe them.";
@@ -196,25 +201,34 @@ export function Wizard() {
         {STEPS[step] === "Budget" && (
           <>
             <h1 className="text-2xl font-bold">What&apos;s your budget?</h1>
+            <p className="-mt-3 text-sm text-neutral-500">This is a maximum, not a target. We pick the best fit, not the most expensive.</p>
             <div className="flex flex-wrap gap-2">
-              {BUDGET_PRESETS.map(([min, max]) => (
+              {BUDGET_PRESETS.map((max) => (
                 <Chip
-                  key={`${min}-${max}`}
-                  selected={draft.budgetMinEur === min && draft.budgetMaxEur === max}
-                  onClick={() => setDraft((d) => ({ ...d, budgetMinEur: min, budgetMaxEur: max }))}
+                  key={max}
+                  selected={draft.budgetMaxEur === max}
+                  onClick={() => {
+                    set("budgetMaxEur", max);
+                    setBudgetText(String(max));
+                  }}
                 >
-                  €{min}–{max}
+                  Up to €{max.toLocaleString("en")}
                 </Chip>
               ))}
             </div>
-            <div className="grid grid-cols-2 gap-3">
-              <Field label="Min (€)">
-                <input type="number" inputMode="numeric" min={0} className={inputClass} value={draft.budgetMinEur} onChange={(e) => set("budgetMinEur", Number(e.target.value))} />
-              </Field>
-              <Field label="Max (€)">
-                <input type="number" inputMode="numeric" min={1} className={inputClass} value={draft.budgetMaxEur} onChange={(e) => set("budgetMaxEur", Number(e.target.value))} />
-              </Field>
-            </div>
+            <Field label="Or type your own maximum (€)">
+              <input
+                type="text"
+                inputMode="numeric"
+                className={inputClass}
+                value={budgetText}
+                onChange={(e) => {
+                  const text = e.target.value.replace(/[^0-9]/g, "").slice(0, 6);
+                  setBudgetText(text);
+                  set("budgetMaxEur", text === "" ? 0 : Number(text));
+                }}
+              />
+            </Field>
           </>
         )}
 
@@ -251,7 +265,14 @@ export function Wizard() {
         {STEPS[step] === "Avoid" && (
           <>
             <h1 className="text-2xl font-bold">Anything to avoid?</h1>
-            <Field label="Already owns or doesn't want" hint="Separate with commas, e.g. candles, AeroPress, alcohol">
+            <Field label="Skip the usual suspects?" hint="Tap the common gifts they probably already have.">
+              <div className="flex flex-wrap gap-2">
+                {GENERIC_GIFTS.map((g) => (
+                  <Chip key={g} selected={draft.avoid.includes(g)} onClick={() => toggleAvoid(g)}>{g}</Chip>
+                ))}
+              </div>
+            </Field>
+            <Field label="Anything else they own or don't want" hint="Separate with commas, e.g. AeroPress, alcohol">
               <div className="flex gap-2">
                 <input
                   className={inputClass}
@@ -268,7 +289,7 @@ export function Wizard() {
               </div>
               {draft.avoid.length > 0 && (
                 <div className="flex flex-wrap gap-2">
-                  {draft.avoid.map((a) => (
+                  {draft.avoid.filter((a) => !(GENERIC_GIFTS as readonly string[]).includes(a)).map((a) => (
                     <Chip key={a} selected onClick={() => set("avoid", draft.avoid.filter((x) => x !== a))}>{a} ✕</Chip>
                   ))}
                 </div>

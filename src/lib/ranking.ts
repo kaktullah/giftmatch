@@ -18,25 +18,46 @@ export function dedupe(items: ScoredProduct[]): ScoredProduct[] {
 
 /**
  * Sorts by fit score and enforces diversity: at most `maxPerCategory`
- * items from the same category in the final list.
+ * items from the same category, and preferably at most `maxPerStore` from
+ * one store, so results don't all come from the same shop.
  */
 export function diversify(
   items: ScoredProduct[],
-  { limit = 10, maxPerCategory = 2 }: { limit?: number; maxPerCategory?: number } = {},
+  {
+    limit = 10,
+    maxPerCategory = 2,
+    maxPerStore = 4,
+  }: { limit?: number; maxPerCategory?: number; maxPerStore?: number } = {},
 ): ScoredProduct[] {
   const sorted = dedupe(items).sort(
     (a, b) => b.fitScore - a.fitScore || a.product.priceEur - b.product.priceEur,
   );
   const perCategory = new Map<string, number>();
+  const perStore = new Map<string, number>();
   const out: ScoredProduct[] = [];
+  const skipped: ScoredProduct[] = [];
   for (const item of sorted) {
+    const n = perCategory.get(item.product.category) ?? 0;
+    if (n >= maxPerCategory) continue;
+    const s = perStore.get(item.product.store) ?? 0;
+    if (s >= maxPerStore) {
+      skipped.push(item);
+      continue;
+    }
+    perCategory.set(item.product.category, n + 1);
+    perStore.set(item.product.store, s + 1);
+    out.push(item);
+    if (out.length >= limit) break;
+  }
+  // The store limit only spreads results; it never leaves the list short.
+  for (const item of skipped) {
+    if (out.length >= limit) break;
     const n = perCategory.get(item.product.category) ?? 0;
     if (n >= maxPerCategory) continue;
     perCategory.set(item.product.category, n + 1);
     out.push(item);
-    if (out.length >= limit) break;
   }
-  return out;
+  return out.sort((a, b) => b.fitScore - a.fitScore || a.product.priceEur - b.product.priceEur);
 }
 
 /**

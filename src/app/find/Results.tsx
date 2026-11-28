@@ -17,6 +17,14 @@ function sendFeedback(requestId: string | null, productId: string, type: "click"
   }).catch(() => {});
 }
 
+/** Rough arrival date from the store's usual delivery time. */
+function expectedArrival(deliveryDays: number): string {
+  const d = new Date();
+  d.setDate(d.getDate() + deliveryDays);
+  if (d.getDay() === 0) d.setDate(d.getDate() + 1); // no Sunday delivery
+  return d.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" });
+}
+
 function ProductCard({
   rec,
   requestId,
@@ -51,6 +59,7 @@ function ProductCard({
         </div>
       </div>
       <p className="text-sm">{rec.reason}</p>
+      <p className="text-xs text-neutral-500">🚚 Expected to arrive around {expectedArrival(p.deliveryDays)} (estimate)</p>
       <a
         href={p.url}
         target="_blank"

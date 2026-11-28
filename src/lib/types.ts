@@ -1,7 +1,7 @@
 import { z } from "zod";
 
 /** Stores used by the built-in catalog. Live providers may return any store name. */
-export const CATALOG_STORES = ["bol.com", "Coolblue", "Amazon.nl"] as const;
+export const CATALOG_STORES = ["bol.com", "Coolblue", "Amazon.nl", "MediaMarkt", "Decathlon", "Douglas"] as const;
 
 export const CATEGORIES = [
   "coffee-tea",
