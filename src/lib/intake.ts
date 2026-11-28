@@ -16,6 +16,9 @@ export const INTEREST_TAGS = [
   "fashion", "design", "history", "science", "space",
 ] as const;
 
+/** Very common gifts people often already have; offered as one-tap "avoid" chips. */
+export const GENERIC_GIFTS = ["AirPods", "gift card", "candle", "socks", "mug", "perfume", "power bank", "bluetooth speaker", "wine", "headphones"] as const;
+
 const Slider = z.number().int().min(0).max(100);
 
 export const IntakeSchema = z
@@ -27,8 +30,9 @@ export const IntakeSchema = z
     occasion: z.enum(OCCASIONS),
     /** YYYY-MM-DD */
     neededBy: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, "Pick a date"),
-    budgetMinEur: z.number().min(0).max(5000),
-    budgetMaxEur: z.number().min(1).max(5000),
+    /** Optional floor; the questionnaire sends 0. The budget is a cap, not a target. */
+    budgetMinEur: z.number().min(0).max(100000).default(0),
+    budgetMaxEur: z.number().min(1).max(100000),
     interestTags: z.array(z.string().min(1).max(40)).max(20),
     /** e.g. "into padel lately, drinks black coffee, hates clutter" */
     interestText: z.string().max(500),

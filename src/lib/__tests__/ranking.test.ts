@@ -50,3 +50,20 @@ describe("pickWildcard", () => {
     expect(pickWildcard([sp("k2", "kitchen", 95)], [sp("k1", "kitchen", 90)])).toBeNull();
   });
 });
+
+describe("diversify across stores", () => {
+  it("spreads results over stores but still fills the list", () => {
+    const cats: Category[] = ["kitchen", "books", "gaming", "audio-music", "home-decor", "accessories"];
+    const items: ScoredProduct[] = cats.map((c, i) => ({
+      product: makeProduct({ id: `bol-${c}`, category: c, store: "bol.com" }),
+      fitScore: 100 - i,
+    }));
+    items.push({ product: makeProduct({ id: "mm", category: "tech-gadgets", store: "MediaMarkt" }), fitScore: 10 });
+    const out = diversify(items, { limit: 5, maxPerStore: 4 });
+    expect(out).toHaveLength(5);
+    expect(out.map((x) => x.product.id)).toContain("mm");
+    expect(out.filter((x) => x.product.store === "bol.com")).toHaveLength(4);
+    // A short catalog still fills up from the same store.
+    expect(diversify(items.slice(0, 6), { limit: 6, maxPerStore: 4 })).toHaveLength(6);
+  });
+});

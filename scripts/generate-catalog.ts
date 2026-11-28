@@ -13,6 +13,9 @@ const STORE_INFO: Record<string, { searchUrl: (q: string) => string; deliveryDay
   "bol.com": { searchUrl: (q) => `https://www.bol.com/nl/nl/s/?searchtext=${q}`, deliveryDays: 2, shipsTo: ["NL", "BE"] },
   Coolblue: { searchUrl: (q) => `https://www.coolblue.nl/zoeken?query=${q}`, deliveryDays: 2, shipsTo: ["NL", "BE"] },
   "Amazon.nl": { searchUrl: (q) => `https://www.amazon.nl/s?k=${q}`, deliveryDays: 3, shipsTo: ["NL", "BE"] },
+  MediaMarkt: { searchUrl: (q) => `https://www.mediamarkt.nl/nl/search.html?query=${q}`, deliveryDays: 2, shipsTo: ["NL"] },
+  Decathlon: { searchUrl: (q) => `https://www.decathlon.nl/search?Ntt=${q}`, deliveryDays: 3, shipsTo: ["NL", "BE"] },
+  Douglas: { searchUrl: (q) => `https://www.douglas.nl/nl/search?q=${q}`, deliveryDays: 2, shipsTo: ["NL", "BE"] },
 };
 
 function slug(s: string): string {

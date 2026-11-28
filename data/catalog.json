@@ -1150,15 +1150,14 @@
     ],
     "priceEur": 249,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=Garmin%20Forerunner%20165%20GPS%20Running%20Watch",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Garmin%20Forerunner%20165%20GPS%20Running%20Watch",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -1174,12 +1173,12 @@
     ],
     "priceEur": 199,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "Decathlon",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=Polar%20Pacer%20Running%20Watch",
+    "url": "https://www.decathlon.nl/search?Ntt=Polar%20Pacer%20Running%20Watch",
     "imageUrl": null,
     "inStock": true,
-    "deliveryDays": 2,
+    "deliveryDays": 3,
     "shipsTo": [
       "NL",
       "BE"
@@ -1199,15 +1198,14 @@
     ],
     "priceEur": 149,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=Fitbit%20Charge%206",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Fitbit%20Charge%206",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -1249,12 +1247,12 @@
     ],
     "priceEur": 35,
     "priceIsApproximate": true,
-    "store": "bol.com",
+    "store": "Decathlon",
     "provider": "catalog",
-    "url": "https://www.bol.com/nl/nl/s/?searchtext=Blackroll%20Standard%20Foam%20Roller",
+    "url": "https://www.decathlon.nl/search?Ntt=Blackroll%20Standard%20Foam%20Roller",
     "imageUrl": null,
     "inStock": true,
-    "deliveryDays": 2,
+    "deliveryDays": 3,
     "shipsTo": [
       "NL",
       "BE"
@@ -1344,12 +1342,12 @@
     ],
     "priceEur": 40,
     "priceIsApproximate": true,
-    "store": "bol.com",
+    "store": "Decathlon",
     "provider": "catalog",
-    "url": "https://www.bol.com/nl/nl/s/?searchtext=Speedo%20Fastskin%20Speedsocket%202%20Goggles",
+    "url": "https://www.decathlon.nl/search?Ntt=Speedo%20Fastskin%20Speedsocket%202%20Goggles",
     "imageUrl": null,
     "inStock": true,
-    "deliveryDays": 2,
+    "deliveryDays": 3,
     "shipsTo": [
       "NL",
       "BE"
@@ -1840,15 +1838,14 @@
     ],
     "priceEur": 349,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=Sony%20WH-1000XM5%20Headphones",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Sony%20WH-1000XM5%20Headphones",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -1865,15 +1862,14 @@
     ],
     "priceEur": 119,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=JBL%20Flip%206%20Bluetooth%20Speaker",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=JBL%20Flip%206%20Bluetooth%20Speaker",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -2435,15 +2431,14 @@
     ],
     "priceEur": 399,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=GoPro%20HERO12%20Black",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=GoPro%20HERO12%20Black",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -2509,15 +2504,14 @@
     ],
     "priceEur": 329,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=Nintendo%20Switch%20OLED",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Nintendo%20Switch%20OLED",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -2703,15 +2697,14 @@
     ],
     "priceEur": 329,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=Meta%20Quest%203S%20128%20GB",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Meta%20Quest%203S%20128%20GB",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -3838,15 +3831,14 @@
     ],
     "priceEur": 69,
     "priceIsApproximate": true,
-    "store": "Coolblue",
+    "store": "MediaMarkt",
     "provider": "catalog",
-    "url": "https://www.coolblue.nl/zoeken?query=Philips%20OneBlade%20Pro%20360",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Philips%20OneBlade%20Pro%20360",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
     "shipsTo": [
-      "NL",
-      "BE"
+      "NL"
     ],
     "isClothing": false
   },
@@ -3937,9 +3929,9 @@
     ],
     "priceEur": 199,
     "priceIsApproximate": true,
-    "store": "bol.com",
+    "store": "Douglas",
     "provider": "catalog",
-    "url": "https://www.bol.com/nl/nl/s/?searchtext=Foreo%20Luna%204%20Facial%20Cleansing%20Device",
+    "url": "https://www.douglas.nl/nl/search?q=Foreo%20Luna%204%20Facial%20Cleansing%20Device",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
@@ -3961,9 +3953,9 @@
     ],
     "priceEur": 30,
     "priceIsApproximate": true,
-    "store": "bol.com",
+    "store": "Douglas",
     "provider": "catalog",
-    "url": "https://www.bol.com/nl/nl/s/?searchtext=The%20Ordinary%20The%20Daily%20Set",
+    "url": "https://www.douglas.nl/nl/search?q=The%20Ordinary%20The%20Daily%20Set",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
@@ -4010,9 +4002,9 @@
     ],
     "priceEur": 35,
     "priceIsApproximate": true,
-    "store": "bol.com",
+    "store": "Douglas",
     "provider": "catalog",
-    "url": "https://www.bol.com/nl/nl/s/?searchtext=Kiehl's%20Ultra%20Facial%20Cream%2050%20ml",
+    "url": "https://www.douglas.nl/nl/search?q=Kiehl's%20Ultra%20Facial%20Cream%2050%20ml",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,
@@ -5147,6 +5139,633 @@
     "store": "bol.com",
     "provider": "catalog",
     "url": "https://www.bol.com/nl/nl/s/?searchtext=National%20Geographic%20Microscope%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kuikma-padel-balls-pb-speed-3-pack",
+    "title": "Kuikma Padel Balls PB Speed (3-pack)",
+    "brand": "Kuikma",
+    "category": "sports-fitness",
+    "tags": [
+      "padel",
+      "balls",
+      "small"
+    ],
+    "priceEur": 7,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Kuikma%20Padel%20Balls%20PB%20Speed%20(3-pack)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kuikma-padel-bag-500",
+    "title": "Kuikma Padel Bag 500",
+    "brand": "Kuikma",
+    "category": "sports-fitness",
+    "tags": [
+      "padel",
+      "bag",
+      "sport"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Kuikma%20Padel%20Bag%20500",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kuikma-pr-500-padel-racket",
+    "title": "Kuikma PR 500 Padel Racket",
+    "brand": "Kuikma",
+    "category": "sports-fitness",
+    "tags": [
+      "padel",
+      "racket",
+      "sport",
+      "beginner"
+    ],
+    "priceEur": 60,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Kuikma%20PR%20500%20Padel%20Racket",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-quechua-mh500-hiking-backpack-30-l",
+    "title": "Quechua MH500 Hiking Backpack 30 L",
+    "brand": "Quechua",
+    "category": "outdoor-travel",
+    "tags": [
+      "hiking",
+      "backpack",
+      "outdoor"
+    ],
+    "priceEur": 45,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Quechua%20MH500%20Hiking%20Backpack%2030%20L",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-forclaz-trek-500-trekking-poles",
+    "title": "Forclaz Trek 500 Trekking Poles",
+    "brand": "Forclaz",
+    "category": "outdoor-travel",
+    "tags": [
+      "hiking",
+      "trekking",
+      "outdoor"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Forclaz%20Trek%20500%20Trekking%20Poles",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-quechua-2-seconds-easy-pop-up-tent",
+    "title": "Quechua 2 Seconds Easy Pop-up Tent",
+    "brand": "Quechua",
+    "category": "outdoor-travel",
+    "tags": [
+      "camping",
+      "tent",
+      "festival"
+    ],
+    "priceEur": 120,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Quechua%202%20Seconds%20Easy%20Pop-up%20Tent",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kalenji-running-belt",
+    "title": "Kalenji Running Belt",
+    "brand": "Kalenji",
+    "category": "sports-fitness",
+    "tags": [
+      "running",
+      "practical",
+      "small"
+    ],
+    "priceEur": 12,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Kalenji%20Running%20Belt",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kiprun-hydration-vest-10-l",
+    "title": "Kiprun Hydration Vest 10 L",
+    "brand": "Kiprun",
+    "category": "sports-fitness",
+    "tags": [
+      "running",
+      "trail",
+      "hydration",
+      "marathon"
+    ],
+    "priceEur": 50,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Kiprun%20Hydration%20Vest%2010%20L",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-domyos-pilates-ring",
+    "title": "Domyos Pilates Ring",
+    "brand": "Domyos",
+    "category": "sports-fitness",
+    "tags": [
+      "pilates",
+      "yoga",
+      "home workout"
+    ],
+    "priceEur": 15,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Domyos%20Pilates%20Ring",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-kimjaly-yoga-mat-8-mm",
+    "title": "Kimjaly Yoga Mat 8 mm",
+    "brand": "Kimjaly",
+    "category": "sports-fitness",
+    "tags": [
+      "yoga",
+      "mat",
+      "comfort"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Kimjaly%20Yoga%20Mat%208%20mm",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-btwin-bike-repair-kit",
+    "title": "Btwin Bike Repair Kit",
+    "brand": "Btwin",
+    "category": "sports-fitness",
+    "tags": [
+      "cycling",
+      "bike",
+      "practical",
+      "diy"
+    ],
+    "priceEur": 15,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Btwin%20Bike%20Repair%20Kit",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-olaian-surf-poncho",
+    "title": "Olaian Surf Poncho",
+    "brand": "Olaian",
+    "category": "outdoor-travel",
+    "tags": [
+      "surfing",
+      "beach",
+      "swimming",
+      "cozy"
+    ],
+    "priceEur": 35,
+    "priceIsApproximate": true,
+    "store": "Decathlon",
+    "provider": "catalog",
+    "url": "https://www.decathlon.nl/search?Ntt=Olaian%20Surf%20Poncho",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 3,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": true
+  },
+  {
+    "id": "catalog-philips-hue-play-light-bar-double-pack",
+    "title": "Philips Hue Play Light Bar Double Pack",
+    "brand": "Philips Hue",
+    "category": "tech-gadgets",
+    "tags": [
+      "smart home",
+      "gaming",
+      "lights",
+      "tv"
+    ],
+    "priceEur": 129,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Philips%20Hue%20Play%20Light%20Bar%20Double%20Pack",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-marshall-major-v-headphones",
+    "title": "Marshall Major V Headphones",
+    "brand": "Marshall",
+    "category": "audio-music",
+    "tags": [
+      "headphones",
+      "music",
+      "rock",
+      "design"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Marshall%20Major%20V%20Headphones",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-bose-quietcomfort-ultra-earbuds",
+    "title": "Bose QuietComfort Ultra Earbuds",
+    "brand": "Bose",
+    "category": "audio-music",
+    "tags": [
+      "headphones",
+      "noise cancelling",
+      "travel"
+    ],
+    "priceEur": 299,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Bose%20QuietComfort%20Ultra%20Earbuds",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-nintendo-switch-sports",
+    "title": "Nintendo Switch Sports",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "tags": [
+      "gaming",
+      "family",
+      "sport",
+      "party"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Nintendo%20Switch%20Sports",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-elgato-stream-deck-mk-2",
+    "title": "Elgato Stream Deck MK.2",
+    "brand": "Elgato",
+    "category": "gaming",
+    "tags": [
+      "streaming",
+      "creator",
+      "pc gaming"
+    ],
+    "priceEur": 149,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Elgato%20Stream%20Deck%20MK.2",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-logitech-streamcam",
+    "title": "Logitech StreamCam",
+    "brand": "Logitech",
+    "category": "tech-gadgets",
+    "tags": [
+      "streaming",
+      "webcam",
+      "creator",
+      "work from home"
+    ],
+    "priceEur": 109,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Logitech%20StreamCam",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-sony-alpha-zv-e10-vlog-camera",
+    "title": "Sony Alpha ZV-E10 Vlog Camera",
+    "brand": "Sony",
+    "category": "tech-gadgets",
+    "tags": [
+      "photography",
+      "video",
+      "creator",
+      "vlog"
+    ],
+    "priceEur": 699,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Sony%20Alpha%20ZV-E10%20Vlog%20Camera",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-apple-watch-se-gps-40-mm",
+    "title": "Apple Watch SE (GPS, 40 mm)",
+    "brand": "Apple",
+    "category": "tech-gadgets",
+    "tags": [
+      "watch",
+      "fitness",
+      "apple",
+      "health"
+    ],
+    "priceEur": 279,
+    "priceIsApproximate": true,
+    "store": "MediaMarkt",
+    "provider": "catalog",
+    "url": "https://www.mediamarkt.nl/nl/search.html?query=Apple%20Watch%20SE%20(GPS%2C%2040%20mm)",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-douglas-collection-bath-and-body-gift-set",
+    "title": "Douglas Collection Bath and Body Gift Set",
+    "brand": "Douglas",
+    "category": "wellness-selfcare",
+    "tags": [
+      "self care",
+      "bath",
+      "relax",
+      "gift box"
+    ],
+    "priceEur": 25,
+    "priceIsApproximate": true,
+    "store": "Douglas",
+    "provider": "catalog",
+    "url": "https://www.douglas.nl/nl/search?q=Douglas%20Collection%20Bath%20and%20Body%20Gift%20Set",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-clinique-moisture-surge-100h-50-ml",
+    "title": "Clinique Moisture Surge 100H 50 ml",
+    "brand": "Clinique",
+    "category": "grooming-beauty",
+    "tags": [
+      "skincare",
+      "moisturizer"
+    ],
+    "priceEur": 40,
+    "priceIsApproximate": true,
+    "store": "Douglas",
+    "provider": "catalog",
+    "url": "https://www.douglas.nl/nl/search?q=Clinique%20Moisture%20Surge%20100H%2050%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-hugo-boss-bottled-eau-de-toilette-100-ml",
+    "title": "Hugo Boss Bottled Eau de Toilette 100 ml",
+    "brand": "Hugo Boss",
+    "category": "grooming-beauty",
+    "tags": [
+      "perfume",
+      "men",
+      "classic"
+    ],
+    "priceEur": 75,
+    "priceIsApproximate": true,
+    "store": "Douglas",
+    "provider": "catalog",
+    "url": "https://www.douglas.nl/nl/search?q=Hugo%20Boss%20Bottled%20Eau%20de%20Toilette%20100%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-yves-saint-laurent-libre-eau-de-parfum-50-ml",
+    "title": "Yves Saint Laurent Libre Eau de Parfum 50 ml",
+    "brand": "Yves Saint Laurent",
+    "category": "grooming-beauty",
+    "tags": [
+      "perfume",
+      "women",
+      "premium"
+    ],
+    "priceEur": 110,
+    "priceIsApproximate": true,
+    "store": "Douglas",
+    "provider": "catalog",
+    "url": "https://www.douglas.nl/nl/search?q=Yves%20Saint%20Laurent%20Libre%20Eau%20de%20Parfum%2050%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-sol-de-janeiro-brazilian-bum-bum-cream-240-ml",
+    "title": "Sol de Janeiro Brazilian Bum Bum Cream 240 ml",
+    "brand": "Sol de Janeiro",
+    "category": "grooming-beauty",
+    "tags": [
+      "skincare",
+      "body",
+      "trendy"
+    ],
+    "priceEur": 48,
+    "priceIsApproximate": true,
+    "store": "Douglas",
+    "provider": "catalog",
+    "url": "https://www.douglas.nl/nl/search?q=Sol%20de%20Janeiro%20Brazilian%20Bum%20Bum%20Cream%20240%20ml",
+    "imageUrl": null,
+    "inStock": true,
+    "deliveryDays": 2,
+    "shipsTo": [
+      "NL",
+      "BE"
+    ],
+    "isClothing": false
+  },
+  {
+    "id": "catalog-lush-sleepy-body-lotion",
+    "title": "Lush Sleepy Body Lotion",
+    "brand": "Lush",
+    "category": "wellness-selfcare",
+    "tags": [
+      "sleep",
+      "relax",
+      "self care",
+      "scent"
+    ],
+    "priceEur": 30,
+    "priceIsApproximate": true,
+    "store": "Douglas",
+    "provider": "catalog",
+    "url": "https://www.douglas.nl/nl/search?q=Lush%20Sleepy%20Body%20Lotion",
     "imageUrl": null,
     "inStock": true,
     "deliveryDays": 2,

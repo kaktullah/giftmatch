@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 
 /** Prompt versions in use. Bump when a new file is added in /prompts. */
-export const PROMPT_VERSIONS = { concepts: "concepts.v1", rerank: "rerank.v1" } as const;
+export const PROMPT_VERSIONS = { concepts: "concepts.v2", rerank: "rerank.v2" } as const;
 
 const cache = new Map<string, string>();
 

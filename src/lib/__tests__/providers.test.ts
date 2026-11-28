@@ -16,7 +16,9 @@ describe("built-in catalog", () => {
 
   it("links only to real store websites", () => {
     const hosts = new Set(all.map((p) => new URL(p.url).hostname));
-    expect([...hosts].sort()).toEqual(["www.amazon.nl", "www.bol.com", "www.coolblue.nl"]);
+    expect([...hosts].sort()).toEqual([
+      "www.amazon.nl", "www.bol.com", "www.coolblue.nl", "www.decathlon.nl", "www.douglas.nl", "www.mediamarkt.nl",
+    ]);
     for (const p of all) expect(CATALOG_STORES).toContain(p.store);
   });
 

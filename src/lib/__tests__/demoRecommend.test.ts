@@ -58,3 +58,21 @@ describe("demoRecommend", () => {
     }
   });
 });
+
+describe("budget is a cap, not a target", () => {
+  it("does not push pricier gifts when the budget goes up", async () => {
+    const avg = async (max: number) => {
+      const r = await demoRecommend(buildProfile({ ...sampleIntake, budgetMinEur: 0, budgetMaxEur: max }), catalog, undefined, today);
+      return r.items.slice(0, 3).map((x) => x.product.priceEur);
+    };
+    const low = await avg(100);
+    const high = await avg(5000);
+    // The best picks under €100 are still the best picks with €5,000 to spend.
+    expect(high).toEqual(low);
+  });
+
+  it("accepts budgets far above €5,000", async () => {
+    const { IntakeSchema } = await import("@/lib/intake");
+    expect(IntakeSchema.safeParse({ ...sampleIntake, budgetMaxEur: 25000 }).success).toBe(true);
+  });
+});
