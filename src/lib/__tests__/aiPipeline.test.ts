@@ -81,7 +81,7 @@ describe("aiRecommend", () => {
     const r = await aiRecommend(profile, catalog, llm, settings, undefined, today);
     expect(llm.calls).toEqual(["claude-haiku-5-5", "claude-sonnet-5-5"]);
     expect(r.usage).toHaveLength(2);
-    expect(r.promptVersion).toBe("concepts.v2+rerank.v2");
+    expect(r.promptVersion).toBe("concepts.v3+rerank.v3");
   });
 
   it("never sends rejected or out-of-budget products to the model", async () => {
@@ -118,7 +118,7 @@ describe("generateWithRetry", () => {
 
 describe("prompts", () => {
   it("are versioned files with all placeholders filled", () => {
-    const t = loadPrompt("rerank.v2");
+    const t = loadPrompt("rerank.v3");
     expect(t).toContain("{{products}}");
     expect(() => renderPrompt(t, {})).toThrow(/Missing prompt variable/);
     expect(() => loadPrompt("../package")).toThrow();

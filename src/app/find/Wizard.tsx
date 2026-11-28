@@ -53,6 +53,7 @@ export function Wizard() {
   const [avoidInput, setAvoidInput] = useState("");
   /** Raw text of the budget box, so typing (or clearing) never jumps around. */
   const [budgetText, setBudgetText] = useState(String(initialDraft.budgetMaxEur));
+  const [minBudgetText, setMinBudgetText] = useState("");
   const toggleAvoid = (item: string) =>
     set("avoid", draft.avoid.includes(item) ? draft.avoid.filter((a) => a !== item) : [...draft.avoid, item]);
   const [error, setError] = useState<string | null>(null);
@@ -83,6 +84,7 @@ export function Wizard() {
       case "Budget":
         if (!Number.isFinite(draft.budgetMaxEur) || draft.budgetMaxEur < 1) return "Enter a budget of at least €1.";
         if (draft.budgetMaxEur > 100000) return "That's a very big budget. Please enter €100,000 or less.";
+        if (draft.budgetMinEur > draft.budgetMaxEur) return "The minimum can't be higher than the maximum.";
         return null;
       case "Interests":
         if (draft.interestTags.length === 0 && !draft.interestText.trim()) return "Pick at least one interest or describe them.";
@@ -201,7 +203,7 @@ export function Wizard() {
         {STEPS[step] === "Budget" && (
           <>
             <h1 className="text-2xl font-bold">What&apos;s your budget?</h1>
-            <p className="-mt-3 text-sm text-neutral-500">This is a maximum, not a target. We pick the best fit, not the most expensive.</p>
+            <p className="-mt-3 text-sm text-neutral-500">We pick the best fit within your range, not the most expensive.</p>
             <div className="flex flex-wrap gap-2">
               {BUDGET_PRESETS.map((max) => (
                 <Chip
@@ -216,19 +218,35 @@ export function Wizard() {
                 </Chip>
               ))}
             </div>
-            <Field label="Or type your own maximum (€)">
-              <input
-                type="text"
-                inputMode="numeric"
-                className={inputClass}
-                value={budgetText}
-                onChange={(e) => {
-                  const text = e.target.value.replace(/[^0-9]/g, "").slice(0, 6);
-                  setBudgetText(text);
-                  set("budgetMaxEur", text === "" ? 0 : Number(text));
-                }}
-              />
-            </Field>
+            <div className="grid grid-cols-2 gap-3">
+              <Field label="From (€)" hint="Optional">
+                <input
+                  type="text"
+                  inputMode="numeric"
+                  placeholder="0"
+                  className={inputClass}
+                  value={minBudgetText}
+                  onChange={(e) => {
+                    const text = e.target.value.replace(/[^0-9]/g, "").slice(0, 6);
+                    setMinBudgetText(text);
+                    set("budgetMinEur", text === "" ? 0 : Number(text));
+                  }}
+                />
+              </Field>
+              <Field label="Up to (€)" hint="Your maximum">
+                <input
+                  type="text"
+                  inputMode="numeric"
+                  className={inputClass}
+                  value={budgetText}
+                  onChange={(e) => {
+                    const text = e.target.value.replace(/[^0-9]/g, "").slice(0, 6);
+                    setBudgetText(text);
+                    set("budgetMaxEur", text === "" ? 0 : Number(text));
+                  }}
+                />
+              </Field>
+            </div>
           </>
         )}
 
